@@ -8,7 +8,9 @@
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 ---
 ![Microsoft Logo](http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74 "Microsoft Logo")
----
+
+## Overview
+
 **This repository is used to record my contributions and experiences in participating in the Microsoft Insider Program. I hope this repository can help newbie Microsoft Insiders. thanks for your support!**
 
 > Author: Ling Gao (China)   
