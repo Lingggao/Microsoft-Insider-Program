@@ -33,3 +33,11 @@ Thanks for your support!
 - [**Microsoft Community**](https://answers.microsoft.com/en-us/profile/4e1113c0-eb29-4e90-9782-f1931bae8489)
 - [**LinkedIn**](https://www.linkedin.com/in/lingggao/)
 
+## Table of Contents
+
+1. **Microsoft Windows Insider Program**
+	- [**Chinese translation of update announcement**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation)
+	- [**What should we do when we find a Windows issue?**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)
+2. **Microsoft Edge Insider Program**
+	- 
+
