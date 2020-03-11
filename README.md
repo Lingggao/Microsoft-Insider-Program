@@ -24,7 +24,6 @@ I'm very into the corporate culture and technologies of Microsoft, and I've been
 Looking into 2020, I'd continue to make further contributions to the development of Microsoft products. I believe that with the constant efforts of Microsoft fans and everyone else, there would be a day for Microsoft to live up to its lofty mission of **"Empower every person and organization on the planet to achieve more"**.
 
 Thanks for your support!
-
 **Ling Gao**
 
 ## Homepage
