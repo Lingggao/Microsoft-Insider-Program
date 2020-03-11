@@ -4,8 +4,8 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://en.wikipedia.org/wiki/Markdown) 
 [![CC0-1.0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/LICENSE)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](www.linkedin.com/in/lingggao)
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](www.linkedin.com/in/lingggao)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://www.linkedin.com/in/lingggao)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://www.linkedin.com/in/lingggao)
 ---
 <img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74" width = "50%" />
 
