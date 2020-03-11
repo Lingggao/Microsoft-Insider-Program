@@ -11,7 +11,7 @@
 
 ## Overview
 
-**This repository is used to record my contributions and experiences in participating in the Microsoft Insider Program. I hope this repository can help newbie Microsoft Insiders. thanks for your support!**
+**This repository is used to record my contributions and experiences in participating in the Microsoft Insider Program. I hope this repository can help newbie Microsoft Insiders. Thanks for your support!**
 
 > Author: Ling Gao (China)   
 > Participate: Microsoft Windows Insider Program, Microsoft Edge Insider Program  
