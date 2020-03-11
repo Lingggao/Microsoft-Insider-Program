@@ -3,7 +3,7 @@
 [**简体中文版本 (Chinese Documentation)**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/README_cn.md)   
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) 
-[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+[![CC0-1.0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/LICENSE)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 ---
