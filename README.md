@@ -21,11 +21,11 @@
 
 I'm very into the corporate culture and technologies of Microsoft, and I've been committed to enabling more comfortable experiences for the users of Microsoft products. In terms of "promoting the rapid development of Windows and other Microsoft products", I've made the following contributions:
 
-1. More than 470 feedbacks about Microsoft Windows and Edge were submitted, earning me over 5000 affirmative votes.
+1. More than **470** feedbacks about Microsoft Windows and Edge were submitted, earning me over **5000** affirmative votes.
 
-2. By acting as a Microsoft Community Independent Advisor, I've provided technical support to more than 6700 users of Microsoft products, with a total of more than 13,000 replies and a customer satisfaction of more than 95%.
+2. By acting as a Microsoft Community Independent Advisor, I've provided technical support to more than **6700** users of Microsoft products, with a total of more than **13,000** replies and a customer satisfaction of more than **95%**.
 
-3. I volunteered to translate the update notifications of Windows Insider Preview versions into Chinese, before posting them on Microsoft Community and some famous social platforms (such as Zhihu, Weibo and more) of China for tens of thousands of Windows Insiders in China to read. Ever since the release of Build 18890, I've translated dozens of English update notifications of Windows Insider Preview versions into Chinese.
+3. I volunteered to translate the update notifications of Windows Insider Preview versions into Chinese, before posting them on Microsoft Community and some famous social platforms (such as Zhihu, Weibo and more) of China for tens of thousands of Windows Insiders in China to read. Ever since the release of Build 18890, I've translated **dozens** of English update notifications of Windows Insider Preview versions into Chinese.
 
 Looking into 2020, I'd continue to make further contributions to the development of Microsoft products. I believe that with the constant efforts of Microsoft fans and everyone else, there would be a day for Microsoft to live up to its lofty mission of **"Empower every person and organization on the planet to achieve more"**.
 
