@@ -31,6 +31,6 @@ Ling Gao
 ## Homepage
 
 - [**Github**](https://github.com/Lingggao)
-- [**Microsoft Community**](https://answers.microsoft.com/zh-hans/profile/4e1113c0-eb29-4e90-9782-f1931bae8489)
+- [**Microsoft Community**](https://answers.microsoft.com/en-us/profile/4e1113c0-eb29-4e90-9782-f1931bae8489)
 - [**LinkedIn**](https://www.linkedin.com/in/lingggao/)
 
