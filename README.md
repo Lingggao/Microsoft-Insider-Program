@@ -26,7 +26,7 @@ Looking into 2020, I'd continue to make further contributions to the development
 
 Thanks for your support!
 
-Ling Gao
+**Ling Gao**
 
 ## Homepage
 
