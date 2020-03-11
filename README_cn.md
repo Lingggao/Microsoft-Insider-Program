@@ -1,9 +1,8 @@
-# Microsoft 预览体验计划
+# Microsoft 预览体验计划 :cat:
 
 [**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/README.md)
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ★
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) ★
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) 
 [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 ---
 **此存储库用于记录我在参与 Microsoft 预览体验计划的过程中所做出的贡献与总结的经验。我希望这个存储库可以帮助到新手 Microsoft 预览体验成员们。衷心感谢各位朋友们的支持！**
