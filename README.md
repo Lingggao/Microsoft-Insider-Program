@@ -42,10 +42,9 @@ Thanks for your support!
 
 <img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74" width = "50%" />
 
-### 1. Microsoft Insider Program Introduction [(Official Website)](https://insider.microsoft.com/en-us/)
+### 1. Microsoft Insider Program [(Official Website)](https://insider.microsoft.com/en-us/)
 
-- **To Do**
-- **To Do**
+- [**Introduction**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
 
 <img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "50%" />
 
