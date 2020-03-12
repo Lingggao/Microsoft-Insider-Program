@@ -42,7 +42,7 @@ Thanks for your support!
 
 - [**Introduction**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
 
-<img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74" width = "40%" />
+<img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74" width = "20%" />
 
 ### 2. Microsoft Windows Insider Program [(Official Website)](https://insider.windows.com/en-us/)  
 
