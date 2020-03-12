@@ -6,7 +6,7 @@
 
 Microsoft 预览体验计划相当于一个志愿者计划，在我国港澳台地区也被译为 “Microsoft 测试人员计划”。注册计划的产品爱好者们被称为 “Microsoft 预览体验成员” (Microsoft 测试人员)，他们将首先测试 Microsoft 产品的最新功能、新闻和更新。同时，他们也可以先于一般大众了解未来动向，向 Microsoft 员工 (包括工程师) 直接提供反馈，共同塑造他们所喜爱的产品的未来。
 
-- [ ] 此处插入一张树状图
+![树状图](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true "树状图")
 
 ## 截至目前，Microsoft 总共开放过多少个预览体验计划？
 
