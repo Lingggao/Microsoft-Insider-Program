@@ -58,6 +58,7 @@ Thanks for your support!
 
 ### 3. Microsoft Edge Insider Program [(Official Website)](https://www.microsoftedgeinsider.com/en-us/)
 
-- [**Unofficial (Created by myself) Microsoft Edge Feedback Hub.**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation)
+- [**Unofficial (Created by myself) Microsoft Edge Feedback Hub.**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub)
+- [**What should we do when we find an Edge issue?**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue)
 
 ### 4. Other Insider Program
