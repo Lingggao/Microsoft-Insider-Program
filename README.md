@@ -42,7 +42,7 @@ Thanks for your support!
 
 - [**Introduction**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
 
-<img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" />
+<img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74" width = "20%" />
 
 ### 2. Microsoft Windows Insider Program [(Official Website)](https://insider.windows.com/en-us/)  
 
@@ -50,7 +50,7 @@ Thanks for your support!
 - [**What should we do when we find a Windows issue?**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)  
 - [**Windows 10 May 2019 Update (1903_18362) Known Issues and Processing Progress Summary [Deprecated]**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues)
 
-<img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74" width = "20%" />
+<img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" />
 
 ### 3. Microsoft Edge Insider Program [(Official Website)](https://www.microsoftedgeinsider.com/en-us/)
 
