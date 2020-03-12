@@ -2,9 +2,13 @@
 
 [**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/README.md)
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) 
-[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
----
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://en.wikipedia.org/wiki/Markdown) 
+[![CC0-1.0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/LICENSE)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://www.linkedin.com/in/lingggao)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://www.linkedin.com/in/lingggao)
+
+## 简介
+
 **此存储库用于记录我在参与 Microsoft 预览体验计划的过程中所做出的贡献与总结的经验。我希望这个存储库可以帮助到新手 Microsoft 预览体验成员们。衷心感谢各位朋友们的支持！**
 
 > 作者：高楷修 (Ling Gao)  
@@ -32,3 +36,27 @@
 - [**Microsoft Community**](https://answers.microsoft.com/zh-hans/profile/4e1113c0-eb29-4e90-9782-f1931bae8489)
 - [**LinkedIn**](https://www.linkedin.com/in/lingggao/)
 
+## 目录
+
+### 1. Microsoft 预览体验计划 [(官方网站)](https://insider.microsoft.com/en-us/)
+
+- [**简介**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
+
+<img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74" width = "20%" />
+
+### 2. Microsoft Windows 预览体验计划 [(官方网站)](https://insider.windows.com/en-us/)  
+
+- [**简体中文版本更新公告 (志愿翻译)**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation)
+- [**当我们发现 Windows 系统的异常问题时，该怎样去做？**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)  
+- [**Windows 10 2019 年 5 月更新 (1903_18362) 已知问题与处理进度汇总 【已弃用】**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues)
+
+<img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" />
+
+### 3. Microsoft Edge 预览体验计划 [(官方网站)](https://www.microsoftedgeinsider.com/en-us/)
+
+- [**新版本 Microsoft Edge 浏览器非官方 (我自己建立的) 功能建议征集与异常问题反馈平台**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub)
+- [**当我们发现 Edge 浏览器的异常问题时，该怎样去做？**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue)
+
+<img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
+
+### 4. 其他的 Microsoft 预览体验计划
