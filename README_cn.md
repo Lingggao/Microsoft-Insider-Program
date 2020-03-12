@@ -59,4 +59,4 @@
 
 <img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
-### 4. 其他的 Microsoft 预览体验计划
+### 4. 其他的预览体验计划
