@@ -9,7 +9,7 @@
 
 ## Overview
 
-**This repository used to record my contributions and experiences in participating in the Microsoft Insider Program. I hope this repository can help newbie Microsoft Insiders. Thanks for your support!**
+**This repository used to record my contributions and experiences in participating in the Microsoft Insider Programs. I hope this repository can help newbie Microsoft Insiders. Thanks for your support!**
 
 > Author: Ling Gao (China)   
 > Participate: Microsoft Windows Insider Program, Microsoft Edge Insider Program  
@@ -38,7 +38,7 @@ Thanks for your support!
 
 ## Table of Contents
 
-### Microsoft Insider Program [(Official Website)](https://insider.microsoft.com/en-us/)
+### Microsoft Insider Programs [(Official Website)](https://insider.microsoft.com/en-us/)
 
 - [**Introduction** [Wrote by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
 - [**Tree** [Chinese version only at present]](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
