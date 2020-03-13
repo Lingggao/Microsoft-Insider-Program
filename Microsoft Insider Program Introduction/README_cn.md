@@ -12,6 +12,8 @@ Microsoft 预览体验计划相当于一个志愿者计划，在我国港澳台�
 
 ## 截至目前，Microsoft 总共开放过多少个预览体验计划？
 
+<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Introduction.png?raw=true" width = "100%" />
+
 Microsoft 至今 (2020 年 3 月) 总共面向产品爱好者们开放过 8 个预览体验计划，它们分别为：
 
 1. **Windows 预览体验计划** [(官方网站)](https://insider.windows.com/)
