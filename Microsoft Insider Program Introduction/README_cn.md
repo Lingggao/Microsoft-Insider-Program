@@ -12,20 +12,20 @@ Microsoft 预览体验计划相当于一个志愿者计划，在我国港澳台�
 
 Microsoft 至今 (2020 年 3 月) 总共面向产品爱好者们开放过 8 个预览体验计划，它们分别为：
 
-1. Windows 预览体验计划 [(官方网站)](https://)
-2. Office 预览体验计划 [(官方网站)](https://)
-3. Bing 预览体验计划 [(官方网站)](https://)
-4. Edge 预览体验计划 [(官方网站)](https://)
-5. Xbox 预览体验计划 [(官方网站)](https://)
-6. Visual Studio 预览 [(官方网站)](https://)
-7. Visual Studio Code 预览体验计划 [(官方网站)](https://)
-8. Skype 预览体验计划 [(官方网站)](https://)
+1. **Windows 预览体验计划 [(官方网站)](https://insider.windows.com/)**
+2. **Office 预览体验计划 [(官方网站)](https://insider.office.com/)**
+3. **Bing 预览体验计划 [(官方网站)](https://ww.bing.com/insider)**
+4. **Edge 预览体验计划 [(官方网站)](https://www.microsoftedgeinsider.com/)**
+5. **Xbox 预览体验计划 [(官方网站)](https://insider.xbox.com/)**
+6. **Visual Studio 预览 [(官方网站)](https://visualstudio.microsoft.com/vs/preview/)**
+7. **Visual Studio Code 预览体验计划 [(官方网站)](https://code.visualstudio.com/insiders/)**
+8. **Skype 预览体验计划 (没有官方网站)**
 
 注：由于某些未知原因，Microsoft 将 Visual Studio 预览体验计划仅称作为 “Visual Studuo 预览” (没有 “体验计划” 四个字)，英文名为 Visual Studio Preview，而并非 “Visual Studio Insider Program”。
 
 注 2：Skype 预览体验计划目前已经终止，产品爱好者们无法再参与其中。
 
-## 注册这些预览体验计划是否需要相应的条件？
+## 注册这些预览体验计划是否需要相应的资格 / 条件？
 
 每个 Microsoft 预览体验计划都有其对应的协议，强烈建议您在确认注册计划前仔细阅读相关协议，避免自己做出某些违反协议的错误操作。
 
@@ -40,4 +40,6 @@ Microsoft 至今 (2020 年 3 月) 总共面向产品爱好者们开放过 8 个�
 1. 您需要成年才可以参与 Microsoft 预览体验计划。
 2. 预览体验计划为您提供的软件可能会损坏您的设备。
 3. 您不会获得报酬，也不会与 Microsoft 形成任何雇佣关系。
+
+## 如何注册这些预览体验计划？
 
