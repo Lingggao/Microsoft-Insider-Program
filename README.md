@@ -1,4 +1,4 @@
-# Microsoft Insider Program :cat:  
+# Microsoft Insider Programs :cat:  
 
 [**简体中文版本 (Chinese Documentation)**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/README_cn.md)   
 
