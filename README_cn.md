@@ -9,6 +9,8 @@
 
 ## 简介
 
+***以赋能为使命，予力全球每一人、每一组织，成就不凡。***
+
 **此存储库用于记录我在参与 Microsoft 预览体验计划的过程中所做出的贡献与总结的经验。我希望这个存储库可以帮助到新手 Microsoft 预览体验成员们。衷心感谢各位朋友们的支持！**
 
 > 作者：高楷修 (Ling Gao)  
@@ -50,6 +52,7 @@
 - [**简体中文版本更新公告**【由我个人翻译】](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation)
 - [**当我们发现 Windows 系统的异常问题时，该怎样去做？**【由我个人编写】](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)  
 - [**Windows 10 2019 年 5 月更新 (1903_18362) 已知问题与处理进度汇总**【已弃用】](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues)
+- [**我该选择哪一个 Windows 预览体验计划通道？**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Windows%20Insider%20Rings)
 
 <img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" />
 
