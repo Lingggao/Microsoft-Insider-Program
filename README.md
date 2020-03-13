@@ -47,7 +47,7 @@ Thanks for your support!
 
 ### 2. Microsoft Windows Insider Program [(Official Website)](https://insider.windows.com/en-us/)  
 
-- [**Chinese translation of update announcement.**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation)
+- [**Chinese translation of update announcement [Translate by me personally]**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation)
 - [**What should we do when we find a Windows issue?**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)  
 - [**Windows 10 May 2019 Update (1903_18362) Known Issues and Processing Progress Summary [Deprecated]**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues)
 
@@ -55,9 +55,13 @@ Thanks for your support!
 
 ### 3. Microsoft Edge Insider Program [(Official Website)](https://www.microsoftedgeinsider.com/en-us/)
 
-- [**Unofficial (Created by myself) Microsoft Edge Feedback Hub.**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub)
+- [**Unofficial Microsoft Edge Feedback Hub [Created by me personally]**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub)
 - [**What should we do when we find an Edge issue?**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue)
 
 <img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
 ### 4. Other Insider Program
+
+I only conducted a superficial study of the Insider Program of Microsoft's Windows and Edge products, and did not investigate other Insider Programs. Without an investigation, there is no right to speak. I cannot comment on the Insider Program that I have not known about.
+
+If I find other Microsoft product enthusiasts' introduction articles or experience summaries about Microsoft Insider Program, I will supplement the relevant links or content as much as possible below the license requirements.
