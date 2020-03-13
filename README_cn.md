@@ -40,8 +40,8 @@
 
 ### 1. Microsoft 预览体验计划 [(官方网站)](https://insider.microsoft.com/en-us/)
 
-- [**简介**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
-- [**树状图**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
+- [**简介【由我个人编写】**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
+- [**树状图【由我个人绘制】**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
 
 <img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74" width = "20%" />
 
