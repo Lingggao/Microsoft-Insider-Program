@@ -38,30 +38,31 @@ Thanks for your support!
 
 ## Table of Contents
 
-### 1. Microsoft Insider Program [(Official Website)](https://insider.microsoft.com/en-us/)
+### Microsoft Insider Program [(Official Website)](https://insider.microsoft.com/en-us/)
 
-- [**Introduction [Wrote by me]**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
-- [**Tree [Chinese version only at present]**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
+- [**Introduction** [Wrote by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
+- [**Tree** [Chinese version only at present]](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
 
 <img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2r0Th?ver=5b7d" width = "20%" />
 
-### 2. Microsoft Windows Insider Program [(Official Website)](https://insider.windows.com/en-us/)  
+### Microsoft Windows Insider Program [(Official Website)](https://insider.windows.com/en-us/)  
 
-- [**Chinese translation of update announcement [Translate by me]**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation)
-- [**What should we do when we find a Windows issue? [Wrote by me]**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)  
-- [**Windows 10 May 2019 Update (1903_18362) Known Issues and Processing Progress Summary [Deprecated]**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues)
+- [**Chinese translation of update announcement** [Translate by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation)
+- [**What should we do when we find a Windows issue?** [Wrote by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)  
+- [**Windows 10 May 2019 Update (1903_18362) Known Issues and Processing Progress Summary** [Deprecated]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues)
 
 <img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" />
 
-### 3. Microsoft Edge Insider Program [(Official Website)](https://www.microsoftedgeinsider.com/en-us/)
+### Microsoft Edge Insider Program [(Official Website)](https://www.microsoftedgeinsider.com/en-us/)
 
-- [**Unofficial Microsoft Edge Feedback Hub [Created by me]**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub)
-- [**What should we do when we find an Edge issue? [Wrote by me]**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue)
+- [**Unofficial Microsoft Edge Feedback Hub** [Created by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub)
+- [**What should we do when we find an Edge issue?** [Wrote by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue)
 
 <img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
-### 4. Other Insider Program
+### Other Insider Program
 
-I only conducted a superficial study of the Insider Program of Microsoft's Windows and Edge products and did not investigate other Insider Programs. Without an investigation, there is no right to speak. I cannot comment on the Insider Program that I have not known.
+I only conducted a superficial study of the Insider Program of Microsoft's Windows and Edge products and did not investigate other Insider Programs. **Without an investigation, there is no right to speak**. I cannot comment on the Insider Program that I have not known.
 
 If I find other Microsoft product enthusiasts' introduction articles or experience summaries about Microsoft Insider Program, I will supplement the relevant links or content as much as possible below the license requirements.
+

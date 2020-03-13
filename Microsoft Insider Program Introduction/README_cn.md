@@ -1,6 +1,6 @@
 # Microsoft 预览体验计划 简介
 
-[**English Documentation (英文版本) 未完成！**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
+[**English Documentation (英文版本) 暂未完成**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
 
 ## 简介
 
@@ -12,14 +12,14 @@ Microsoft 预览体验计划相当于一个志愿者计划，在我国港澳台�
 
 Microsoft 至今 (2020 年 3 月) 总共面向产品爱好者们开放过 8 个预览体验计划，它们分别为：
 
-1. **Windows 预览体验计划 [(官方网站)](https://insider.windows.com/)**
-2. **Office 预览体验计划 [(官方网站)](https://insider.office.com/)**
-3. **Bing 预览体验计划 [(官方网站)](https://ww.bing.com/insider)**
-4. **Edge 预览体验计划 [(官方网站)](https://www.microsoftedgeinsider.com/)**
-5. **Xbox 预览体验计划 [(官方网站)](https://insider.xbox.com/)**
-6. **Visual Studio 预览 [(官方网站)](https://visualstudio.microsoft.com/vs/preview/)**
-7. **Visual Studio Code 预览体验计划 [(官方网站)](https://code.visualstudio.com/insiders/)**
-8. **Skype 预览体验计划 (没有官方网站)**
+1. **Windows 预览体验计划** [(官方网站)](https://insider.windows.com/)
+2. **Office 预览体验计划** [(官方网站)](https://insider.office.com/)
+3. **Bing 预览体验计划** [(官方网站)](https://ww.bing.com/insider)
+4. **Edge 预览体验计划** [(官方网站)](https://www.microsoftedgeinsider.com/)
+5. **Xbox 预览体验计划** [(官方网站)](https://insider.xbox.com/)
+6. **Visual Studio 预览** [(官方网站)](https://visualstudio.microsoft.com/vs/preview/)
+7. **Visual Studio Code 预览体验计划** [(官方网站)](https://code.visualstudio.com/insiders/)
+8. **Skype 预览体验计划** (没有官方网站)
 
 注：由于某些未知原因，Microsoft 将 Visual Studio 预览体验计划仅称作为 “Visual Studuo 预览” (没有 “体验计划” 四个字)，英文名为 Visual Studio Preview，而并非 “Visual Studio Insider Program”。
 
@@ -43,3 +43,4 @@ Microsoft 至今 (2020 年 3 月) 总共面向产品爱好者们开放过 8 个�
 
 ## 如何注册这些预览体验计划？
 
+//To Do
