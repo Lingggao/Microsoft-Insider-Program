@@ -59,7 +59,7 @@
 ### Microsoft Edge 预览体验计划 [(官方网站)](https://www.microsoftedgeinsider.com/en-us/)
 
 - [**新版本 Microsoft Edge 浏览器非官方功能建议征集与异常问题反馈平台**【由我个人创建】](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub/README_cn.md)
-- [**当我们发现 Edge 浏览器的异常问题时，该怎样去做？**【由我个人编写】](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue)
+- [**当我们发现 Edge 浏览器的异常问题时，该怎样去做？**【由我个人编写】](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue/README_cn.md)
 
 <img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
