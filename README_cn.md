@@ -1,6 +1,6 @@
 # Microsoft 预览体验计划 :cat:
 
-[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/README.md)
+[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft_Insider_Program)
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://en.wikipedia.org/wiki/Markdown) 
 [![CC0-1.0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/LICENSE)
