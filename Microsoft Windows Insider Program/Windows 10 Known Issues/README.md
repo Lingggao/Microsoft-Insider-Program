@@ -6,3 +6,4 @@ Windows 10 version 1903 has officially released on May 21, 2019. When it was off
 
 In summary, to prevent Chinese Windows users from being impressed with the poor quality of Microsoft products because they can not get the latest information on the progress of bug handling, I created ***"Windows 10 May 2019 Update (1903_18362) Known Issues and Processing Progress Summary"*** discussion in Microsoft Community on **May 14, 2019 (one week before the official release)**.
 
+This article is under preparation. Please be patient. :cat:
