@@ -8,3 +8,5 @@ Windows 10 1903 版本于 2019 年 5 月 21 日正式发布。每当 Windows 发
 
 > 点击 [**此处**](https://answers.microsoft.com/zh-hans/insider/forum/all/bug-%E6%B1%87%E6%80%BBwindows-10-2019-%E5%B9%B4-5/252d0d6a-022c-4bf7-9976-55b57590aee2) 可以前往 Microsoft 社区查看此讨论贴
 
+<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues/Screenshots_3.png?raw=true" width = "80%" />
+<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues/Screenshots_2.png?raw=true" width = "80%" />
