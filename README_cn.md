@@ -69,4 +69,6 @@
 
 如果我发现了其他 Microsoft 产品爱好者们有关预览体验计划的介绍文章或经验总结，我会在遵守许可证的前提下尽可能的将相关的链接或内容补充至下方。
 
+**衷心感谢各位朋友们的支持！**
+
 [**回到顶部**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/README_cn.md#microsoft-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92-cat)
