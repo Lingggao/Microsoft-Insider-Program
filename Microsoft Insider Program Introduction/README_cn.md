@@ -67,9 +67,12 @@ Microsoft 至今 (2020 年 3 月) 总共面向产品爱好者们开放过 8 个�
 	
 ### Edge 预览体验计划
 
-1. XXX
-2. XXX
+1. 点击 [**此处**]() 进入 **Edge 预览体验计划**官方网站。
+2. 不需要注册账户，点击顶部的 **“下载”** 选项卡，选择您需要的渠道 (Beta、Dev、Canary)，阅读对应的法律协议，点击 **“接受并下载”** 按钮即可下载预览体验版本 Microsoft Edge 浏览器。
+
+### Bing 预览体验计划
 
 // To Do
+
 
 [**回到顶部**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#microsoft-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92-%E7%AE%80%E4%BB%8B)
