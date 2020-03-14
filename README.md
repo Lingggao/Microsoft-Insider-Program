@@ -63,9 +63,9 @@ Thanks for your support!
 
 <img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
-### Other Insider Program
+### Where is other Insider Program?
 
-I only conducted a superficial study of the Insider Program of Microsoft's Windows and Edge products and did not investigate other Insider Programs. **Without an investigation, there is no right to speak**. I cannot comment on the Insider Program that I have not known.
+I only conducted a superficial study of the Insider Program of Microsoft's Windows and Edge products and did not investigate other Insider Programs. **Without an investigation, there is no right to speak**. I cannot comment on the Insider Program that I have not known. Thank you for your understanding!
 
 If I find other Microsoft product enthusiasts' introduction articles or experience summaries about Microsoft Insider Program, I will supplement the relevant links or content as much as possible below the license requirements.
 
