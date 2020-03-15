@@ -14,7 +14,7 @@ Microsoft 为产品爱好者们提供 Windows 预览体验计划服务的目的�
 
 ## 什么是高质量反馈？
 
-要想做到为 Microsoft 提供高质量的 Windows 反馈，我们首先应当对 **“高质量”** 有一个初步的评判标准。我认为，一个高质量的 Windows 反馈应当至少包含以下几点信息：
+要想做到为 Microsoft 提供高质量的 Windows 反馈，我们首先应当对 **“高质量”** 有一个初步的评判标准。**我认为，一个高质量的 Windows 反馈应当至少包含以下几点信息：**
 
 ### 问题反馈
 1. 首先用**一句话**简明的描述发生了什么错误。
@@ -52,7 +52,22 @@ Build 19559_按 “Windows 徽标键+V” 快捷键启动 “剪贴板历史记�
 > 这个例子同样选自于我个人提交的 Windows 反馈。
 
 ### 建议反馈
-1. XXX
-2. //To Do
+1. 首先用**一句话**简明的描述需要提交的建议。
+2. **目前**是什么情况？(对什么现象不满意？)
+3. 您**希望发生**什么情况？(希望 Microsoft 作出哪些改进？)
+4. 提供针对此建议似乎可行的**解决方案**，以供 Microsoft 在处理时进行参考。
+5. [**可选**] 提供有关此建议的**屏幕截图**。
+6. **[可以没有，但是推荐有]** 使用**感谢词**作为反馈的结束语。
+
+**举例 1：**
+
+希望反馈中心添加 “重新选择反馈类别” 的功能。
+
+在目前，如果用户在反馈中心中添加反馈时选择了错误的类别，在提交完毕后是没有办法修改的。希望反馈中心添加 “重新选择反馈类别” 的功能，如果用户选择了错误的类别，可以重新进行修改，以免负责此类别的 Microsoft 工程师无法接收到用户提交的反馈。希望 Microsoft 考虑此建议。Thanks very much.
+
+<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Feedback.png?raw=true" width = "80%" />
+
+## To Do
 
 [**回到顶部**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%BD%93%E5%8F%91%E7%8E%B0-windows-%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98%E6%97%B6%E8%AF%A5%E6%80%8E%E6%A0%B7%E5%8E%BB%E5%81%9A)
+
