@@ -42,8 +42,8 @@ Thanks for your support!
 
 ### Microsoft Insider Programs [(Official Website)](https://insider.microsoft.com/en-us/)
 
-- [**Introduction** [Wrote by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
-- [**Tree** [Chinese version only at present]](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
+1. [**Introduction** [Wrote by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
+2. [**Tree** [Chinese version only at present]](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
 
 <img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2r0Th?ver=5b7d" width = "20%" />
 
