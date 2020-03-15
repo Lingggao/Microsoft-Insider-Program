@@ -31,7 +31,11 @@ Microsoft 为产品爱好者们提供 Windows 预览体验计划服务的目的�
 
 Build 19564_OneDrive 突然无法正常使用，同时任务栏中的 “云朵” 形状图标消失。
 
-更新至 Build 19564 版本后，OneDrive 突然无法正常使用。点击 OneDrive 应用后，无法弹出文件夹，同时任务栏中的 “云朵” 形状图标消失。与此同时，任务管理器中 “Microsoft OneDrive (32 位)” 进程持续占用 15% 左右的 CPU，导致设备风扇一直处于运转状态。请调查此问题。Thanks very much.
+更新至 Build 19564 版本后，OneDrive 突然无法正常使用。点击 OneDrive 应用后，无法弹出文件夹，同时任务栏中的 “云朵” 形状图标消失。与此同时，任务管理器中 “Microsoft OneDrive (32 位)” 进程持续占用 15% 左右的 CPU，导致设备风扇一直处于运转状态。
+
+请调查此问题。Thanks very much.
+
+<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Feedback.png?raw=true" width = "80%" />
 
 > 这个例子选自于我个人提交的 Windows 反馈。
 
@@ -39,7 +43,11 @@ Build 19564_OneDrive 突然无法正常使用，同时任务栏中的 “云朵�
 
 Build 19559_按 “Windows 徽标键+V” 快捷键启动 “剪贴板历史记录” 并将其关闭后，无法继续输入文字。
 
-在 Build 19559 版本中，按下 “Windows 徽标键+V” 快捷键启动 “剪贴板历史记录” 后，如果不粘贴任何内容并直接将其关闭，将无法继续使用键盘输入文字。重启设备可以暂时解决这一问题。请调查此问题。Thanks very much.
+在 Build 19559 版本中，按下 “Windows 徽标键+V” 快捷键启动 “剪贴板历史记录” 后，如果不粘贴任何内容并直接将其关闭，将无法继续使用键盘输入文字。重启设备可以暂时解决这一问题。
+
+请调查此问题。Thanks very much.
+
+<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Feedback_2.png?raw=true" width = "80%" />
 
 > 这个例子同样选自于我个人提交的 Windows 反馈。
 
