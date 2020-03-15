@@ -63,9 +63,11 @@ Build 19559_按 “Windows 徽标键+V” 快捷键启动 “剪贴板历史记�
 
 希望反馈中心添加 “重新选择反馈类别” 的功能。
 
-在目前，如果用户在反馈中心中添加反馈时选择了错误的类别，在提交完毕后是没有办法修改的。希望反馈中心添加 “重新选择反馈类别” 的功能，如果用户选择了错误的类别，可以重新进行修改，以免负责此类别的 Microsoft 工程师无法接收到用户提交的反馈。希望 Microsoft 考虑此建议。Thanks very much.
+在目前，如果用户在反馈中心中添加反馈时选择了错误的类别，在提交完毕后是没有办法修改的。希望反馈中心添加 “重新选择反馈类别” 的功能，如果用户选择了错误的类别，可以重新进行修改，以免负责此类别的 Microsoft 工程师无法接收到用户提交的反馈。
 
-<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Feedback.png?raw=true" width = "80%" />
+希望 Microsoft 考虑此建议。Thanks very much.
+
+<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Feedback_3.png?raw=true" width = "80%" />
 
 ## To Do
 
