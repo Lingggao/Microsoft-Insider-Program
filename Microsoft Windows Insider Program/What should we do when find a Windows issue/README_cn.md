@@ -113,7 +113,9 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 
 各位 Windows 预览体验成员朋友们一定非常清楚，**我们在向 Microsoft 提交的反馈中添加了越多的详细信息，对问题的调查与处理工作就越有帮助**，这是理所应当的。既然我们已经决定向 Microsoft 提交反馈，不如就在这一基础之上对问题进行更加细致的研究，争取让这个反馈对工程师解决问题起到最大化的帮助。
 
-以下是我个人总结的 **“发现 Windows 问题时的通用调查研究流程”**，在此分享给各位预览体验成员们：
+以下是我个人总结的 **“发现 Windows 问题时的通用调查研究流程”**，在此分享给各位预览体验成员们。
+
+## 发现 Windows 问题时的通用调查研究流程
 
 <img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/General%20Investigation%20and%20Research%20Process.png?raw=true" width = "80%" />
 
