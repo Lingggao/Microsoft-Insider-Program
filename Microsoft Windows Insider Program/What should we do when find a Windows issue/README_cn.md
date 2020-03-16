@@ -2,7 +2,7 @@
 
 [**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)
 
-## 简介
+## 概述
 
 Microsoft 为产品爱好者们提供 Windows 预览体验计划服务的目的是**获取更多关于 “用户对 Windows 预览体验计划服务的喜好以及期望进行的更改” 的信息**。用户通过注册 Windows 预览体验计划获得了使用最新版本 Windows、参与系统测试的**权利**，自然也应当履行向 Microsoft 提供反馈的**义务**。
 
