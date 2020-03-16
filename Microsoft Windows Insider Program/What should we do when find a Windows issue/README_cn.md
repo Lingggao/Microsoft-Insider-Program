@@ -115,6 +115,11 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 
 以下是我个人总结的 **“发现 Windows 问题时的通用调查研究流程”**，在此分享给各位预览体验成员们：
 
+<img src="" width = "80%" />
+
+> 此流程图是我在前一段时间绘制的，内容比下方的文字流程要少，请以下方的文字说明为准。  
+> 点击 [此处](https://www.processon.com/view/link/5e6089cae4b03ecc75214492) 前往 ProcessOn 查看完整流程图。
+
 // To Do  
 // To Do
 

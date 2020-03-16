@@ -8,7 +8,7 @@ Microsoft 预览体验计划相当于一个志愿者计划，在我国港澳台�
 
 <img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true" width = "80%" />
 
-> 点击 [此处](https://www.processon.com/view/link/5e6f2734e4b011fcce97f970) 前往 ProcessOn 查看完整树状图
+> 点击 [此处](https://www.processon.com/view/link/5e6f2734e4b011fcce97f970) 前往 ProcessOn 查看完整树状图。
 
 ## 截至目前，Microsoft 总共开放过多少个预览体验计划？
 
@@ -40,7 +40,7 @@ Microsoft 预览体验计划主要面向广大的产品爱好者们开放注册�
 3. 注册参与本计划，即表示您已达到您居住地的 “成年人” 法定年龄，并且同意受本协议条款的约束，这是参与本计划的必需条件。
 4. 您同意不对任何软件进行反编译、反向工程、反汇编、解密或以其他方式试图导出其源代码，除非且仅当前述限制 (a) 在适用法律允许的范围内；(b) 在软件可能随附的约束开源组件使用的许可条款所允许的范围内；或 (c) 在为调试软件中包含并链接的根据《GNU 宽通用公共许可证》获得许可的任何库中的更改所必需的范围内。
 
-> 点击 [此处](https://insider.windows.com/zh-cn/program-agreement/) 查看完整 Windows 预览体验计划协议
+> 点击 [此处](https://insider.windows.com/zh-cn/program-agreement/) 查看完整 Windows 预览体验计划协议。
 
 上述的 4 条协议可以简要的总结为以下内容：
 
