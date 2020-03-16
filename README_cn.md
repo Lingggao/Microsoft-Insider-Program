@@ -69,6 +69,7 @@
 	- [特点](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues/README_cn.md#%E7%89%B9%E7%82%B9)
 	- [最新情况](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues/README_cn.md#%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5)
 4. [**我该选择哪一个 Windows 预览体验计划通道？**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%20Insider%20Rings/README_cn.md)
+5. [**什么是 Microsoft Windows Insider 最有价值专家 (MVP)？**](https://)
 
 <img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" />
 
