@@ -51,7 +51,7 @@
 	- [注册这些预览体验计划是否需要相应的资格 / 条件？](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#%E6%B3%A8%E5%86%8C%E8%BF%99%E4%BA%9B%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E7%9B%B8%E5%BA%94%E7%9A%84%E8%B5%84%E6%A0%BC--%E6%9D%A1%E4%BB%B6)
 	- [如何注册这些预览体验计划？](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E8%BF%99%E4%BA%9B%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92)
 2. [**树状图**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
-	- [直接在 GitHub 中查看](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
+	- [在 GitHub 中查看](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
 	- [在 ProcessOn 中查看](https://www.processon.com/view/link/5e6f2734e4b011fcce97f970)
 
 <img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2r0Th?ver=5b7d" width = "20%" />
