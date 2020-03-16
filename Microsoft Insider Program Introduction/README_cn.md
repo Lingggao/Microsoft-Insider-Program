@@ -101,7 +101,7 @@ Microsoft 预览体验计划主要面向广大的产品爱好者们开放注册�
 
 ### Skype 预览体验计划
 
-Skype 预览体验计划目前已经无法注册，同时也无法再寻找到任何的 “Skype 预览体验计划” 官方网站。
+Skype 预览体验计划目前已经不再开放注册，同时，我未能寻找到任何的 “Skype 预览体验计划” 官方网站。
 
 
 [**回到顶部**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#microsoft-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92-%E7%AE%80%E4%BB%8B)
