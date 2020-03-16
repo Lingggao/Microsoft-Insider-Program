@@ -11,7 +11,11 @@
 
 ***Empower every person and organization on the planet to achieve more.***
 
-**This repository used to record my contributions and experiences in participating in the Microsoft Insider Programs. I hope this repository can help newbie Microsoft Insiders. Thanks for your support!**
+For a long time, I firmly believe that **if a large project is to succeed, it cannot be achieved by one member of the team alone, but by the mutual help and joint efforts of each member of the team.** ***A single flower does not make a spring.*** In the more than two years of participating in the Microsoft Insider Program, I have won the top 10 of the Windows Insider Leaderboard several times, and I have accumulated some shallow experience. I have believed that **the hard work of a small group of members will not make the Microsoft Insider Program *"Spring Scenery Garden."* Rather than go it alone, I hope that through my efforts, the community can achieve the goal of *"All Flowers Bloom Together."***
+ 
+So I decided to create this repository to record my contributions and lessons learned during my participation in the Microsoft Insider Program. I hope this repository can help newbie Microsoft Insiders fight for fewer detours and focus on contributing to Microsoft.
+
+Thanks for your support!
 
 > Author: Ling Gao (China)   
 > Participate: Microsoft Windows Insider Program, Microsoft Edge Insider Program  
@@ -34,9 +38,9 @@ Thanks for your support!
 
 ## Homepage
 
-- [**Github**](https://github.com/Lingggao)
-- [**Microsoft Community**](https://answers.microsoft.com/en-us/profile/4e1113c0-eb29-4e90-9782-f1931bae8489)
-- [**LinkedIn**](https://www.linkedin.com/in/lingggao/)
+- [Github](https://github.com/Lingggao)
+- [Microsoft Community](https://answers.microsoft.com/en-us/profile/4e1113c0-eb29-4e90-9782-f1931bae8489)
+- [LinkedIn](https://www.linkedin.com/in/lingggao/)
 
 ## Table of Contents
 
