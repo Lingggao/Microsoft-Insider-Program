@@ -122,8 +122,28 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 > 点击 [此处](https://www.processon.com/view/link/5e6089cae4b03ecc75214492) 前往 ProcessOn 查看完整流程图。  
 > 注：此流程图是我在前一段时间绘制的，内容比下方的文字流程要少，请以下方的文字说明为准。  
 
+### 1. 发现问题
+
+如果我们想要提交一个 Windows 问题反馈，首先要做的自然是发现一个 Windows 问题。我认为，**我们作为 Windows 预览体验成员，不仅要在自己使用 Windows 10 设备的过程中发现问题，还要在日常生活中主动的在社交媒体中 (例如知乎、微博、贴吧等) 探寻其他的 Windows 用户所发现并提供的问题。即使用户们使用的是充满了垃圾词汇的语言，我们也要理解并重视用户提供的任何线索**。
+
+### 2. 记录至 Microsoft To Do 应用中
+
+一旦我们发现 (或在社交媒体中探寻到) 了任何的 Windows 问题，我们首先要做的应当就是**记录**。根据我的个人经验，当我们 **“突然”** 发现某个问题时，如果不尽快将其加以记录，有较大的概率会在很短的时间内将其忘记。我认为，**将突然出现的灵感或发现记录至待办清单中可以有效的避免遗忘，同时可以在一定程度上避免 “拖延症” 的出现**。
+
+> 强烈推荐大家使用 “Microsoft To Do” 作为首选的待办清单应用，To Do 让你从工作到娱乐都保持专注。  
+> 点击 [此处](https://todo.microsoft.com/tasks/) 以了解有关 Microsoft To Do 应用的详细信息。
+
+**如果是在社交媒体中探寻到的 Windows 问题线索，则应当依次执行下方的 “第 1 次测试” 与 “第 2 次测试”。而如果是在自行使用 Windows 10 设备时发现了问题的话，则仅需要执行 “第 2 次测试” 即可。**
+
+### 3. 第 1 次测试
+
 // To Do  
 // To Do
 
+### 4. 第 2 次测试
 
+// To Do  
+// To Do
+
+---
 [**回到顶部**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%BD%93%E5%8F%91%E7%8E%B0-windows-%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98%E6%97%B6%E8%AF%A5%E6%80%8E%E6%A0%B7%E5%8E%BB%E5%81%9A)
