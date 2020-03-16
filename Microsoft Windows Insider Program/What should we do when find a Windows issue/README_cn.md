@@ -115,14 +115,13 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 
 以下是我个人总结的 **“发现 Windows 问题时的通用调查研究流程”**，在此分享给各位预览体验成员们：
 
-<img src="" width = "80%" />
+<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/General%20Investigation%20and%20Research%20Process.png?raw=true" width = "80%" />
 
 > 此流程图是我在前一段时间绘制的，内容比下方的文字流程要少，请以下方的文字说明为准。  
 > 点击 [此处](https://www.processon.com/view/link/5e6089cae4b03ecc75214492) 前往 ProcessOn 查看完整流程图。
 
 // To Do  
 // To Do
-
 
 
 [**回到顶部**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%BD%93%E5%8F%91%E7%8E%B0-windows-%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98%E6%97%B6%E8%AF%A5%E6%80%8E%E6%A0%B7%E5%8E%BB%E5%81%9A)
