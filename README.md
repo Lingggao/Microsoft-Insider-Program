@@ -1,9 +1,9 @@
 # Microsoft Insider Programs :cat:  
 
-[**简体中文版本 (Chinese Documentation)**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/README_cn.md)   
+[**简体中文版本 (Chinese Documentation)**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/README_cn.md)   
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://en.wikipedia.org/wiki/Markdown) 
-[![CC0-1.0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/LICENSE)
+[![CC0-1.0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/LICENSE)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://www.linkedin.com/in/lingggao)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://www.linkedin.com/in/lingggao)
 
@@ -46,24 +46,24 @@ Thanks for your support!
 
 ### Microsoft Insider Programs [(Official Website)](https://insider.microsoft.com/en-us/)
 
-1. [**Introduction** [Wrote by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
-2. [**Tree** [Chinese version only at present]](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
+1. [**Introduction** [Wrote by me]](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
+2. [**Tree** [Chinese version only at present]](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
 
 <img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2r0Th?ver=5b7d" width = "20%" />
 
 ### Microsoft Windows Insider Program [(Official Website)](https://insider.windows.com/en-us/)  
 
-1. [**Chinese translation of update announcement** [Translate by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation)
-2. [**What should we do when we find a Windows issue?** [Wrote by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)  
-3. [**Windows 10 May 2019 Update (1903_18362) Known Issues Summary** [Deprecated]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues)
-4. [**Which ring should I choose?**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/Windows%20Insider%20Rings)
+1. [**Chinese translation of update announcement** [Translate by me]](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation)
+2. [**What should we do when we find a Windows issue?** [Wrote by me]](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)  
+3. [**Windows 10 May 2019 Update (1903_18362) Known Issues Summary** [Deprecated]](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues)
+4. [**Which ring should I choose?**](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Windows%20Insider%20Program/Windows%20Insider%20Rings)
 
 <img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" />
 
 ### Microsoft Edge Insider Program [(Official Website)](https://www.microsoftedgeinsider.com/en-us/)
 
-1. [**Unofficial Microsoft Edge Feedback Hub** [Created by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub)
-2. [**What should we do when we find an Edge issue?** [Wrote by me]](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue)
+1. [**Unofficial Microsoft Edge Feedback Hub** [Created by me]](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub)
+2. [**What should we do when we find an Edge issue?** [Wrote by me]](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue)
 
 <img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
@@ -75,4 +75,4 @@ If I find other Microsoft product enthusiasts' introduction articles or experien
 
 **Thanks for your support!**
 
-[**back to the top**](https://github.com/Lingggao/Microsoft_Insider_Program#microsoft-insider-programs-cat)
+[**back to the top**](https://github.com/Lingggao/Microsoft-Insider-Program#microsoft-insider-programs-cat)
