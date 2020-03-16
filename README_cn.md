@@ -13,7 +13,7 @@
 
 一直以来，我都坚定的认为 —— **每个大型项目若想获得成功，单靠团队中的某一位成员独自奋斗是做不到的，而是要靠团队中每一位成员相互帮助、共同努力**。***一花独放不是春，百花齐放春满园***。我在参与 Microsoft 预览体验计划的两年多时间中，曾数次荣获世界 Windows 预览体验成员排行榜前 10 名，也因此积攒了一些浅显的经验。
 
-我认为，**Microsoft 预览体验计划仅靠一小部分成员的努力拼搏是无法做到 *“春满园 ”* 的，与其单打独斗，我更希望能通过自己的努力来让社区达到 *“百花齐放 ”* 的目的**。因此我决定创建本存储库，用于记录我在参与 Microsoft 预览体验计划的过程中所做出的贡献与总结的经验。我希望这个存储库可以帮助到新手 Microsoft 预览体验成员们，争取能让大家少走弯路，专心为 Microsoft 做出贡献。
+我认为，**Microsoft 预览体验计划仅靠一小部分成员的努力拼搏是无法做到 *“春满园 ”* 的，与其单打独斗，我更希望能通过自己的努力来让社区达到 *“百花齐放 ”* 的目的**。因此我决定创建此 GitHub 存储库，用于记录我在参与 Microsoft 预览体验计划的过程中所做出的贡献与总结的经验。我希望这个存储库可以帮助到新手 Microsoft 预览体验成员们，争取能让大家少走弯路，专心为 Microsoft 做出贡献。
 
 衷心感谢各位朋友们的支持！
 
@@ -38,7 +38,7 @@
 
 ## 个人主页
 
-- [Github](https://github.com/Lingggao)
+- [GitHub](https://github.com/Lingggao)
 - [Microsoft Community](https://answers.microsoft.com/zh-hans/profile/4e1113c0-eb29-4e90-9782-f1931bae8489)
 - [LinkedIn](https://www.linkedin.com/in/lingggao/)
 
@@ -51,6 +51,8 @@
 	- [注册这些预览体验计划是否需要相应的资格 / 条件？](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#%E6%B3%A8%E5%86%8C%E8%BF%99%E4%BA%9B%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E7%9B%B8%E5%BA%94%E7%9A%84%E8%B5%84%E6%A0%BC--%E6%9D%A1%E4%BB%B6)
 	- [如何注册这些预览体验计划？](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E8%BF%99%E4%BA%9B%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92)
 2. [**树状图** [由我个人绘制]](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
+	- [直接在 GitHub 中查看](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
+	- [在 ProcessOn 中查看](https://www.processon.com/mindmap/5e6052ebe4b0a967bb363821)
 
 <img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2r0Th?ver=5b7d" width = "20%" />
 
