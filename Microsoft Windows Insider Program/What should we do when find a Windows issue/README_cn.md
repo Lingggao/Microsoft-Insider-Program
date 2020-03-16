@@ -117,8 +117,8 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 
 <img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/General%20Investigation%20and%20Research%20Process.png?raw=true" width = "80%" />
 
-> 此流程图是我在前一段时间绘制的，内容比下方的文字流程要少，请以下方的文字说明为准。  
-> 点击 [此处](https://www.processon.com/view/link/5e6089cae4b03ecc75214492) 前往 ProcessOn 查看完整流程图。
+> 点击 [此处](https://www.processon.com/view/link/5e6089cae4b03ecc75214492) 前往 ProcessOn 查看完整流程图。  
+> 注：此流程图是我在前一段时间绘制的，内容比下方的文字流程要少，请以下方的文字说明为准。  
 
 // To Do  
 // To Do
