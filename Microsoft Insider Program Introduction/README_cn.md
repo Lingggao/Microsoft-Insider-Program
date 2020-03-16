@@ -67,12 +67,41 @@ Microsoft 至今 (2020 年 3 月) 总共面向产品爱好者们开放过 8 个�
 	
 ### Edge 预览体验计划
 
-1. 点击 [**此处**]() 进入 **Edge 预览体验计划**官方网站。
+1. 点击 [**此处**](https://www.microsoftedgeinsider.com/zh-cn) 进入 **Edge 预览体验计划**官方网站。
 2. 不需要注册账户，点击顶部的 **“下载”** 选项卡，选择您需要的渠道 (Beta、Dev、Canary)，阅读对应的法律协议，点击 **“接受并下载”** 按钮即可下载预览体验版本 Microsoft Edge 浏览器。
 
 ### Bing 预览体验计划
 
-// To Do
+1. 点击 [**此处**](https://www.bing.com/insider) 进入 **Bing 预览体验计划**官方网站。
+2. 点击 **“Register”** 按钮，登录您的 Microsoft 账户。
+3. 如实填写调查问卷。
+4. 阅读法律协议，勾选 **“同意”** 选择框，填写您的**姓名、电子邮件、一句话申请感言、性别、年龄、地区**等信息。
+5. 继续填写一份调查问卷。
+6. **等待 Microsoft Bing 团队审核您提供的信息。如果 Bing 方面批准的话，您将在 1 - 2 周时间内接到相关消息**。
+
+> 注：由于 Bing 预览体验成员名额有限，请务必如实、谨慎的填写所有的个人信息与申请感言。
+
+### Office 预览体验计划
+
+1. 点击 [**此处**](https://insider.office.com/zh-cn/) 进入 **Office 预览体验计划**官方网站。
+2. 点击 **“立即加入”** 按钮，即可查看对应您目前使用的设备 **(Windows PC、Mac、Windows Mobile、Android、iOS)** 的加入计划步骤。
+3. 以 Windows 电脑为例，首先需要您自行选择所需要的预览体验计划级别 **(预览体验计划、每月频道)**。确定您所需要的级别后，只需从任何 Office 应用中，单击 **“文件”>“帐户”>“Office 预览体验计划”**，即可快速加入计划或切换级别。
+
+### Xbox 预览体验计划
+
+//To Do
+
+### Visual Studio 预览
+
+//To Do
+
+### Visual Studio Code 预览体验计划
+
+//To Do
+
+### Skype 预览体验计划
+
+Skype 预览体验计划目前已经无法注册，同时也无法再寻找到任何的 “Skype 预览体验计划” 官方网站。
 
 
 [**回到顶部**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#microsoft-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92-%E7%AE%80%E4%BB%8B)
