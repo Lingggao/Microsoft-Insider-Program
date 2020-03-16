@@ -8,7 +8,7 @@ Microsoft 预览体验计划相当于一个志愿者计划，在我国港澳台�
 
 <img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true" width = "80%" />
 
-> 点击 [此处](https://www.processon.com/mindmap/5e69ea50e4b06ab7afbc164c) 前往 ProcessOn 查看完整树状图
+> 点击 [此处](https://www.processon.com/view/link/5e6f2734e4b011fcce97f970) 前往 ProcessOn 查看完整树状图
 
 ## 截至目前，Microsoft 总共开放过多少个预览体验计划？
 
