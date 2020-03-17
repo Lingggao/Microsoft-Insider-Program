@@ -57,6 +57,7 @@
 
 <img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2r0Th?ver=5b7d" width = "20%" />
 
+---
 ### Microsoft Windows 预览体验计划 [(官方网站)](https://insider.windows.com/en-us/)  
 
 1. [**简体中文版本更新公告**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation/README_cn.md)
@@ -77,6 +78,7 @@
 
 <img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" />
 
+---
 ### Microsoft Edge 预览体验计划 [(官方网站)](https://www.microsoftedgeinsider.com/en-us/)
 
 1. [**新版本 Microsoft Edge 浏览器非官方功能建议征集与异常问题反馈平台**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub/README_cn.md)
@@ -84,6 +86,7 @@
 
 <img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
+---
 ### 其他的预览体验计划在哪里？
 
 我只对 Microsoft 旗下 Windows 与 Edge 产品的预览体验计划进行过浅显的研究，而并没有对其他的预览体验计划进行过调查。**没有调查，就没有发言权。我不能对没有了解过的预览体验计划妄加评论，希望大家可以理解。**
