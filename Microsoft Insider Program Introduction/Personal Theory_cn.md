@@ -1,5 +1,7 @@
 # 个人理论总结
 
+[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Personal%20Theory.md)
+
 1. 我认为，**每个大型项目若想获得成功，单靠团队中的某一位成员独自奋斗是做不到的，而是要靠团队中每一位成员相互帮助、共同努力。一花独放不是春，百花齐放春满园**。
 
 2. 我认为，**Microsoft 预览体验计划仅靠一小部分成员的努力奋斗是无法做到所谓 “春满园” 的。与其单枪匹马，我更希望能通过自己的努力来让社区展现出 “百花齐放” 的宏伟盛况**。
