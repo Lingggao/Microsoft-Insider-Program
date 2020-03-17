@@ -1,6 +1,6 @@
 # 当发现 Windows 异常问题时，该怎样去做？
 
-[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft_Insider_Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)
+[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)
 
 ## 概述
 
@@ -35,7 +35,7 @@ Build 19564_OneDrive 突然无法正常使用，同时任务栏中的 “云朵�
 
 请调查此问题。Thanks very much.
 
-<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Feedback.png?raw=true" width = "80%" />
+<img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Feedback.png?raw=true" width = "80%" />
 
 > 这个例子选自于我个人提交的 Windows 反馈。
 
@@ -47,7 +47,7 @@ Build 19559_按 “Windows 徽标键+V” 快捷键启动 “剪贴板历史记�
 
 请调查此问题。Thanks very much.
 
-<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Feedback_2.png?raw=true" width = "80%" />
+<img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Feedback_2.png?raw=true" width = "80%" />
 
 > 这个例子同样选自于我个人提交的 Windows 反馈。
 
@@ -67,7 +67,7 @@ Build 19559_按 “Windows 徽标键+V” 快捷键启动 “剪贴板历史记�
 
 希望 Microsoft 考虑此建议。Thanks very much.
 
-<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Feedback_3.png?raw=true" width = "80%" />
+<img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Feedback_3.png?raw=true" width = "80%" />
 
 > 这个例子选自于我个人提交的 Windows 反馈。
 
@@ -103,7 +103,7 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 
 综上所述，我认为，**每名 Windows 预览体验成员都应当做到每周检查一次 Windows 更新，并在检查到新版本系统后尽快执行下载与安装操作。如果确实无法做到每周检查一次更新的话，也应当至少每个月检查一次**。坚决不应当出现数月乃至一年以上未检查过一次 Windows 更新，最后导致系统直接进入停止支持状态的情况。
 
-<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Windows%20lifecycle.png?raw=true" width = "80%" />
+<img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Windows%20lifecycle.png?raw=true" width = "80%" />
 
 ### 3. 如果确实无法确认是否应当提交反馈的话，则一律提交。
 
@@ -117,7 +117,7 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 
 ## 发现 Windows 问题时的通用调查研究流程
 
-<img src="https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/General%20Investigation%20and%20Research%20Process.png?raw=true" width = "80%" />
+<img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/General%20Investigation%20and%20Research%20Process.png?raw=true" width = "80%" />
 
 > 点击 [此处](https://www.processon.com/view/link/5e6089cae4b03ecc75214492) 前往 ProcessOn 查看完整流程图。  
 > 注：此流程图是我在前一段时间绘制的，内容比下方的文字流程要少，请以下方的文字说明为准。  
@@ -146,4 +146,4 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 // To Do
 
 ---
-[**回到顶部**](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%BD%93%E5%8F%91%E7%8E%B0-windows-%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98%E6%97%B6%E8%AF%A5%E6%80%8E%E6%A0%B7%E5%8E%BB%E5%81%9A)
+[**回到顶部**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%BD%93%E5%8F%91%E7%8E%B0-windows-%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98%E6%97%B6%E8%AF%A5%E6%80%8E%E6%A0%B7%E5%8E%BB%E5%81%9A)
