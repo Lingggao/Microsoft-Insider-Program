@@ -44,5 +44,9 @@
 
 12. 我认为，**每位预览体验成员所发现的问题与想出的建议，有很大概率也会被其他的成员所发现与想出。因此，每位预览体验成员都不应当简单的认定自己是某个反馈的 “第一作者”**。
 
+13. 我认为，**每一位专业的 Windows 预览体验成员都应当至少拥有两台 Windows 10 设备，其中一台设备运行 Windows 10 Insider Preview Fast ring 或 Slow ring 版本，另一台设备运行 Slow ring 或者最新正式版本的 Windows，这样可以更高效率的为 Microsoft 做出贡献**。
+
+14. 我认为，**当我们通过了社交媒体获取到了其他用户有关 Windows 10 系统的问题报告时，不应当立即向 Microsoft 提交反馈，因为这种由非 Windows 预览体验成员所提供的问题线索很可能是带有强烈主观色彩的、并不准确的**。
+
 ---
 [**回到顶部**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Personal%20Theory_cn.md#%E4%B8%AA%E4%BA%BA%E7%90%86%E8%AE%BA%E6%80%BB%E7%BB%93)
