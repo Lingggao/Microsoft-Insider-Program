@@ -43,3 +43,6 @@
 11. 我认为，**将突然出现的灵感或发现记录至待办清单中可以有效的避免遗忘，同时可以在一定程度上避免 “拖延症” 的出现**。
 
 12. 我认为，**每位预览体验成员所发现的问题与想出的建议，有很大概率也会被其他的成员所发现与想出。因此，每位预览体验成员都不应当简单的认定自己是某个反馈的 “第一作者”**。
+
+---
+[**回到顶部**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Personal%20Theory_cn.md#%E4%B8%AA%E4%BA%BA%E7%90%86%E8%AE%BA%E6%80%BB%E7%BB%93)
