@@ -75,4 +75,5 @@ If I find other Microsoft product enthusiasts' introduction articles or experien
 
 **Thanks for your support!**
 
+---
 [**back to the top**](https://github.com/Lingggao/Microsoft-Insider-Program#microsoft-insider-programs-cat)

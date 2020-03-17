@@ -33,4 +33,5 @@ Windows 10 1903 版本于 2019 年 5 月 21 日正式发布。每当 Windows 发
 
 在汇总帖正常运行的数个月时间中，我共计整理了 **35** 个 Windows 10 1903 版本已知问题。截止至 **2020 年 3 月 14 日**，*“Windows 10 2019 年 5 月更新 (1903_18362) 已知问题与处理进度汇总”* 讨论贴共计获得了 **264** 个赞成票数，总浏览次数为 **7,434** 次。
 
+---
 [**回到顶部**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues/README_cn.md#windows-10-1903-%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%98%E4%B8%8E%E5%A4%84%E7%90%86%E8%BF%9B%E5%BA%A6%E6%B1%87%E6%80%BB)

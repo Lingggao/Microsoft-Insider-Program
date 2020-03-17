@@ -89,19 +89,21 @@ Microsoft 预览体验计划主要面向广大的产品爱好者们开放注册�
 
 ### Xbox 预览体验计划
 
-//To Do
+1. 启动 Microsoft Store，搜索 **“Xbox 会员中心”** 应用，获取并下载安装此应用。
+2. 启动 **“Xbox 会员中心”** 应用，查看文本提示，点击 **“加入”** 按钮。
+3. 阅读相关法律协议，无异议后点击 **“接受”** 按钮即可加入 Xbox 预览体验计划。
 
 ### Visual Studio 预览
 
-//To Do
+Visual Studio 预览体验计划无需注册。只需要点击 [**此处**](https://visualstudio.microsoft.com/zh-hans/vs/preview/) 进入**Visual Studio 预览**官方网站，下载所需的预览版本即可。
 
 ### Visual Studio Code 预览体验计划
 
-//To Do
+Visual Studio Code 预览体验计划无需注册。只需要点击 [**此处**](https://code.visualstudio.com/insiders/) 进入**Download Visual Studio Code Insiders**网站，下载所需的预览版本即可。
 
 ### Skype 预览体验计划
 
-Skype 预览体验计划目前已经不再开放注册，同时，我未能寻找到任何的 “Skype 预览体验计划” 官方网站。
+Skype 预览体验计划目前已经不再开放注册。同时，我未能寻找到任何的 “Skype 预览体验计划” 官方网站。
 
-
+---
 [**回到顶部**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#microsoft-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92-%E7%AE%80%E4%BB%8B)

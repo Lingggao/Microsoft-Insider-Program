@@ -99,4 +99,5 @@
 <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3tcYq?ver=8ebf" width = "20%" />
 <img src="https://compass-ssl.microsoft.com/assets/e9/20/e920a992-9901-4f62-b9dd-69847b2edd4b.jpg?n=skype%20494x278%402x.jpg" width = "20%" />
 
+---
 [**回到顶部**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/README_cn.md#microsoft-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92-cat)
