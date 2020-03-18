@@ -2,7 +2,7 @@
 
 [**English Documentation (英文版本)【暂未完成】**](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
 
-## 简介
+## 一、简介
 
 Microsoft 预览体验计划相当于一个志愿者计划，在我国港澳台地区也被译为 “Microsoft 测试人员计划”。注册计划的产品爱好者们被称为 “Microsoft 预览体验成员” (Microsoft 测试人员)，**他们将首先获得 Microsoft 产品的最新功能、新闻和更新**。同时，他们也可以先于一般大众了解未来动向，向 Microsoft 员工 (包括工程师) 直接提供反馈，共同塑造他们所喜爱的产品的未来。
 
@@ -10,7 +10,7 @@ Microsoft 预览体验计划相当于一个志愿者计划，在我国港澳台�
 
 > 点击 [此处](https://www.processon.com/view/link/5e6f2734e4b011fcce97f970) 前往 ProcessOn 查看完整树状图。
 
-## 截至目前，Microsoft 总共开放过多少个预览体验计划？
+## 二、截至目前，Microsoft 总共开放过多少个预览体验计划？
 
 <img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Introduction.png?raw=true" width = "100%" />
 
@@ -29,7 +29,7 @@ Microsoft 至今 (2020 年 3 月) 总共面向产品爱好者们开放过 8 个�
 
 > 注 2：Skype 预览体验计划目前已经终止，产品爱好者们无法再参与其中。
 
-## 注册这些预览体验计划是否需要相应的资格 / 条件？
+## 三、注册这些预览体验计划是否需要相应的资格 / 条件？
 
 Microsoft 预览体验计划主要面向广大的产品爱好者们开放注册，而并非只是面向专业的计算机领域工作者开放，因此**基本不需要具备计算机方面的高层次技术能力**。在注册任何的预览体验计划前，请您**务必仔细阅读对应的条款**，这些条款将构成您与 Microsoft Corporation (或者位于您的居住地或企业主营业地的其中一个关联公司) 之间的法律协议，并约束您参与计划的相关事宜。
 
@@ -51,7 +51,7 @@ Microsoft 预览体验计划主要面向广大的产品爱好者们开放注册�
 
 上述内容摘自 Windows 预览体验计划协议，不过仅为完整协议的一小部分，供各位参考。**不同 Microsoft 预览体验计划的协议是有所不同的，强烈建议您在注册任何的 Microsoft 预览体验计划前都仔细阅读对应的协议，避免自己做出违反协议的操作。**
 
-## 如何注册这些预览体验计划？
+## 四、如何注册这些预览体验计划？
 
 不同的 Microsoft 预览体验计划的注册方式不同，有些需要通过官方网站进行注册，有些需要在特定的 Microsoft 产品中进行注册，而有些则不需要注册。为了确保您可以顺利的参与其中，如果您还没有 Microsoft 账户的话，强烈建议您先注册一个 Microsoft 账户。
 
