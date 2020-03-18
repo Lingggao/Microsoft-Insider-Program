@@ -2,7 +2,7 @@
 
 [**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)
 
-## 概述
+## 一、概述
 
 Microsoft 为产品爱好者们提供 Windows 预览体验计划服务的目的是**获取更多关于 “用户对 Windows 预览体验计划服务的喜好以及期望进行的更改” 的信息**。用户通过注册 Windows 预览体验计划获得了使用最新版本 Windows、参与系统测试的**权利**，自然也应当履行向 Microsoft 提供反馈的**义务**。
 
@@ -12,7 +12,7 @@ Microsoft 为产品爱好者们提供 Windows 预览体验计划服务的目的�
 
 以下是我关于这个问题的**个人见解**，希望可以帮助到各位朋友们：
 
-## 什么是高质量反馈？
+## 二、什么是高质量反馈？
 
 要想做到为 Microsoft 提供高质量的 Windows 反馈，我们首先应当对 **“高质量”** 有一个初步的评判标准。**我认为，一个高质量的 Windows 反馈应当至少包含以下几点信息：**
 
@@ -72,7 +72,7 @@ Build 19559_按 “Windows 徽标键+V” 快捷键启动 “剪贴板历史记�
 
 > 这个例子选自于我个人提交的 Windows 反馈。
 
-## 如何决定是否应当提交反馈？
+## 三、如何决定是否应当提交反馈？
 
 在上面的文章中，我们提到 Microsoft 每天都会接到数以十万计的用户反馈。为了尽可能的降低工程师们的工作量，同时更进一步的提高我们编写反馈的质量，我认为，**我们不应当在发现一个问题 (想出一个建议) 时立即提交反馈，也不应当每发现一个问题 (想出一个建议) 就提交一次反馈，而是要进行进一步的调查与分析，仔细研究 “是否应当提交反馈” 以及 “如何提交更加详细的反馈” 这两个问题**。
 
@@ -119,7 +119,7 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 
 > 注：如果确实无法确认是否应当提交反馈的话，则一律提交。
 
-## 如何获得有关 Windows 问题更详细的信息？
+## 四、如何获得有关 Windows 问题更详细的信息？
 
 如果您一路看到了这里，还依旧没有关闭这个文档的话，说明您似乎可以忍受我惨不忍睹的写作风格，我由衷的向您表示感谢与敬佩。在本文档的上一部分，我们讨论了有关 **“如何决定是否应当提交反馈”** 的问题，那么接下来，我们要解决第二个问题 —— **如何提交更加详细的 Windows 问题反馈？**
 
@@ -127,7 +127,7 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 
 下方是我个人总结的 **“Windows 问题通用调查研究流程”**，经过了长时间的研究与测试，确认此流程确实可以有效的帮助用户**获得有关 Windows 问题更详细的信息**。在此分享给各位预览体验成员们，希望可以帮助到大家。
 
-## Windows 问题通用调查研究流程
+## 五、Windows 问题通用调查研究流程
 
 <img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/General%20Investigation%20and%20Research%20Process.png?raw=true" width = "80%" />
 
