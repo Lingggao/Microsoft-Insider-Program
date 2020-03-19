@@ -196,6 +196,20 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 ---
 ### 问题可以成功复现
 
+当一个 Windows 问题在执行**第 2 次测试**流程获得了足够的详细信息以后，我们就可以进入**反馈的编写、校对与提交**的流程了。反馈的编写方面，要严格按照上述的 [**高质量反馈**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E4%BA%8C%E4%BB%80%E4%B9%88%E6%98%AF%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%8D%E9%A6%88) 要求，尽可能的做到**完全符合 “高质量反馈” 要求**。
+
+反馈编写结束后，接下来应当进入 **“校对”** 流程。主要需要校对以下 点：
+
+1. 编写的反馈中是否存在**错字**或**错误使用语法**的现象？
+2. 反馈的文本内容是否采用了**多段式**的分布？(**不建议将所有的文字都挤在一个段落**)
+3. 反馈的总体语气是否做到了**平和而不偏激，尊重而不嘲讽**？
+
+校对结束后，我们即可通过 Windows 10 系统内置的 **Feedback Hub (反馈中心)** 应用提交反馈，选择合适的反馈类别，提供足够的截图与复现步骤即可。**至此，一个 Windows 问题的完整调查与研究流程完全结束，我们只需要静待 Microsoft 做出相关的响应即可**。
+
+> 注：Feedback Hub 应用仅适用于提交有关 **Windows 10 系统、Windows 应用、Windows Phone、HoloLens、开发人员平台、Windows 社区 / 论坛*等* 产品**的反馈，其余使用 Windows 10 系统执行其他的操作 (**例如查看 Microsoft 文档**) 时发现的问题，应当选择其他合适的反馈渠道 (**通过 GitHub 提交 Issue**)，而非全部在 Feedback Hub 应用中提交。
+
+## 六、使用 Feedback Hub (反馈中心) 应用的注意事项
+
 // To Do  
 // To Do
 
