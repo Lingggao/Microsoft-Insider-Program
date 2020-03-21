@@ -127,7 +127,7 @@ Windows 10 系统也受到**现代生命周期策略**的约束。Microsoft 会�
 
 Windows 预览体验成员们应当非常清楚，**我们向 Microsoft 提交的反馈中添加了越多详细信息，对问题的调查与处理工作就越有帮助**，这是理所应当的。既然我们已经决定向 Microsoft 提交反馈，不如就在这一基础之上对问题进行更加细致的研究，争取让反馈对工程师解决问题起到**最大化**的帮助。
 
-第**五**章节是我个人总结的 [**“Windows 问题通用调查研究流程”**]()。经过了长时间的测试工作，我确认此流程能够有效达成 **“帮助用户获得有关 Windows 问题更详细的信息”** 的需求。我将会把完整的流程毫无保留的分享给预览体验成员们，希望可以对大家参与 Windows 测试工作起到帮助。
+第**五**章节是我个人总结的 [**“Windows 问题通用调查研究流程”**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E4%BA%94windows-%E9%97%AE%E9%A2%98%E9%80%9A%E7%94%A8%E8%B0%83%E6%9F%A5%E7%A0%94%E7%A9%B6%E6%B5%81%E7%A8%8B)。经过了长时间的测试工作，我确认此流程能够有效达成 **“帮助用户获得有关 Windows 问题更详细的信息”** 的需求。我将会把完整的流程毫无保留的分享给预览体验成员们，希望可以对大家参与 Windows 测试工作起到帮助。
 
 ## 五、Windows 问题通用调查研究流程
 
@@ -150,7 +150,7 @@ Windows 预览体验成员们应当非常清楚，**我们向 Microsoft 提交�
 > 推荐使用 “Microsoft To Do” 作为首选的待办清单应用。Microsoft To Do，让您从工作到娱乐都保持专注。  
 > 点击 [此处](https://todo.microsoft.com/tasks/) 以了解有关 Microsoft To Do 应用的详细信息。
 
-如果我们是在**社交媒体中探寻到**了 Windows 问题线索，则应当依次执行下方的 [**“第 1 次测试”**]() 与 [**“第 2 次测试”**]()。而如果我们是在**自行使用 Windows 10 设备**时发现了问题的话，则仅需执行 [**“第 2 次测试”**]()。
+如果我们是在**社交媒体中探寻到**了 Windows 问题线索，则应当依次执行下方的 [**“第 1 次测试”**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E7%AC%AC-1-%E6%AC%A1%E6%B5%8B%E8%AF%95) 与 [**“第 2 次测试”**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E7%AC%AC-2-%E6%AC%A1%E6%B5%8B%E8%AF%95)。而如果我们是在**自行使用 Windows 10 设备**时发现了问题的话，则仅需执行 [**“第 2 次测试”**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E7%AC%AC-2-%E6%AC%A1%E6%B5%8B%E8%AF%95)。
 
 ---
 ### 第 1 次测试
@@ -165,7 +165,7 @@ Windows 预览体验成员们应当非常清楚，**我们向 Microsoft 提交�
 
 看到这里，很多 Windows 预览体验成员应该会有这样的想法 —— 我是一名预览体验成员，那么电脑中安装的自然是 Windows 预览体验版本，我没有办法去测试正式版本 Windows 10 系统中的问题。我认为，**每一位专业的 Windows 预览体验成员都应当拥有至少两台 Windows 10 设备，其中一台运行 Windows 10 Insider Preview Fast ring (或 Slow ring) 版本，另一台设备运行 Slow ring (或最新正式版本) Windows，这种双设备配置可以让预览体验成员更高效的为 Microsoft 做出贡献**。
 
-如果第 1 次测试确认问题属实存在，则应当继续执行[**第 2 次测试**]()流程。如果第 1 次测试无法成功重现问题，则应当执行 [**“问题无法成功重现”**]() 流程。**不能跳过第 2 次测试流程而直接执行 “问题可以成功重现” 流程，这样是不严谨的**。
+如果第 1 次测试确认问题属实存在，则应当继续执行[**第 2 次测试**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E7%AC%AC-2-%E6%AC%A1%E6%B5%8B%E8%AF%95)流程。如果第 1 次测试无法成功重现问题，则应当执行 [**“问题无法成功重现”**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E9%97%AE%E9%A2%98%E6%97%A0%E6%B3%95%E6%88%90%E5%8A%9F%E9%87%8D%E7%8E%B0) 流程。**不能跳过第 2 次测试流程而直接执行 “问题可以成功重现” 流程，这样是不严谨的**。
 
 ---
 ### 第 2 次测试
@@ -177,7 +177,7 @@ Windows 预览体验成员们应当非常清楚，**我们向 Microsoft 提交�
 1. 在**不同版本的 Windows 系统**中进行测试，确认问题是否仍然可以成功重现 (**例如**：如果问题是在 Windows 预览体验版本中发现的，那么测试一下在正式版本 Windows 中问题是否仍然存在)。
 2. 执行与可行的重现步骤**类似**的操作，确认问题是否仍然可以成功重现 (**例如**：如果此问题是在使用浏览器输入文本时发现的，那么测试一下在本地 txt 文档中输入文本时问题是否仍然存在)。
 
-在执行第 2 次测试的过程中，要尽可能的**多想、多做**，努力发掘有关 Windows 问题更详细的信息。对于发掘到的详细信息，要尽快**记录至待办清单**。第 2 次测试流程结束后，应当继续执行 [**“问题可以成功重现”**]() 流程。
+在执行第 2 次测试的过程中，要尽可能的**多想、多做**，努力发掘有关 Windows 问题更详细的信息。对于发掘到的详细信息，要尽快**记录至待办清单**。第 2 次测试流程结束后，应当继续执行 [**“问题可以成功重现”**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E9%97%AE%E9%A2%98%E5%8F%AF%E4%BB%A5%E6%88%90%E5%8A%9F%E9%87%8D%E7%8E%B0) 流程。
 
 ---
 ### 问题无法成功重现
@@ -194,7 +194,7 @@ Windows 预览体验成员们应当非常清楚，**我们向 Microsoft 提交�
 
 我认为，**我们应当对无法重现的问题保持 14 天时间的跟踪，跟踪期间每 7 天再次执行一次测试，每次测试应当更换不同的 Windows 版本或操作步骤，以最大面积覆盖问题可能情况，这样可以提高问题成功重现的概率**。
 
-如果问题**在跟踪期间成功重现**，或者**短时间内有多名 Windows 用户报告了同样的问题** (即使 Windows 预览体验成员的个人设备仍然未能成功重现问题)，应当针对此问题恢复执行[**第 2 次测试**]()流程。同时，如果情况如**后者**的话，反馈应当**尽快**编写与提交，以便 Microsoft 在第一时间接收到相关情况并开展调查与处理。
+如果问题**在跟踪期间成功重现**，或者**短时间内有多名 Windows 用户报告了同样的问题** (即使 Windows 预览体验成员的个人设备仍然未能成功重现问题)，应当针对此问题恢复执行[**第 2 次测试**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E7%AC%AC-2-%E6%AC%A1%E6%B5%8B%E8%AF%95)流程。同时，如果情况如**后者**的话，反馈应当**尽快**编写与提交，以便 Microsoft 在第一时间接收到相关情况并开展调查与处理。
 
 我认为，**“短时间内有多位用户报告”** 的判定原则应当为 **“每 14 天发现 >= 5 名用户报告相同的 Windows 问题，并且他们使用的系统版本号相差较小”**。**“尽快”** 应当为 **“在 ‘短时间内有多位用户报告’ 情况判定成立的 24 小时向 Microsoft 提交反馈”**。
 
