@@ -213,6 +213,10 @@ Feedback Hub (反馈中心) 应用自身曾经存在着一定数量的问题，�
 
 1. 不建议在**连接 VPN** 的情况下使用反馈中心，此时反馈中心会弹出 **“我们在连接时遇到问题”** 的提示，这时提交的反馈可能既不会上传至 Microsoft 服务器，也不会保存在本地，大概率会出现反馈丢失的情况。
 
+<img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Error.png?raw=true" width = "80%" />
+
+> 我们在连接时遇到问题
+
 2. 编写完毕反馈并点击了 **“提交”** 按钮后，建议在 Thanks 页面 (类似下方的页面) **停留一分钟左右的时间**，而不建议立即点击 **“继续使用反馈中心”** 按钮直接返回。如果快速点击了返回按钮的话，小概率会出现反馈丢失的情况。
 
 <img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Thanks.png?raw=true" width = "80%" />
@@ -247,6 +251,10 @@ Feedback Hub (反馈中心) 应用自身曾经存在着一定数量的问题，�
 	- Microsoft 旗下其他应用程序 (例如 OneDrive、Office) 在 Windows 系统中**无法正常使用**。
 	- 电脑无法正常开机、性能受到严重影响、系统冻结或无响应、大量应用程序无法启动等**严重 Windows 故障**。
 	- 其他**严重影响预览体验成员使用体验**的 Windows 系统问题 (大家可以自行斟酌)。
+	
+<img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/HighPriority.png?raw=true" width = "80%" />
+
+> 将此项设为高优先级
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%BD%93%E5%8F%91%E7%8E%B0-windows-%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98%E6%97%B6%E8%AF%A5%E6%80%8E%E6%A0%B7%E5%8E%BB%E5%81%9A)
