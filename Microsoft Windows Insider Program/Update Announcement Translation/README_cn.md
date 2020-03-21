@@ -1,6 +1,6 @@
 # Windows 预览体验版本更新公告 简体中文翻译
 
-[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue)
+[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation)
 
 ## 一、概述
 
@@ -13,4 +13,4 @@
 
 
 ---
-[**回到顶部**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%BD%93%E5%8F%91%E7%8E%B0-windows-%E9%97%AE%E9%A2%98%E6%97%B6%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86)
+[**回到顶部**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation/README_cn.md#windows-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E5%85%AC%E5%91%8A-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91)
