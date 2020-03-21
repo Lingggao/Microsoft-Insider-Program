@@ -61,7 +61,7 @@
 ---
 ### Microsoft Windows 预览体验计划 [(官方网站)](https://insider.windows.com/en-us/)  
 
-1. **简体中文版本更新公告**
+1. **Windows 预览体验版本更新公告 简体中文翻译**
 	- [一、概述](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation/README_cn.md#windows-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E5%85%AC%E5%91%8A-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91)
 	- [二、目录](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation/README_cn.md#%E4%BA%8C%E7%9B%AE%E5%BD%95)
 2. **当发现 Windows 问题时，该如何处理？**
