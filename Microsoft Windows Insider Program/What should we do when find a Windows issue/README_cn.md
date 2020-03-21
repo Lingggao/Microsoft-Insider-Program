@@ -216,14 +216,17 @@ Feedback Hub (反馈中心) 应用自身曾经存在着一定数量的问题，�
 2. 编写完毕反馈并点击了 **“提交”** 按钮后，建议在 Thanks 页面 (类似下方的页面) **停留一分钟左右的时间**，而不建议立即点击 **“继续使用反馈中心”** 按钮直接返回。如果快速点击了返回按钮的话，小概率会出现反馈丢失的情况。
 
 <img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Thanks.png?raw=true" width = "80%" />
+
 > Thanks 页面
 
 3. 提交反馈时，如果在添加附件时选择了 **“重现问题”** 的话，会有一个 **“记录的诊断数据 - 数据尚在收集中”** 的过程。不建议在数据收集尚未完成时直接点击 **“提交”** 按钮，因为这可能会导致 Microsoft 无法收集到完整的诊断数据，将会对工程师对问题的调查与研究造成负面影响。**建议在 “数据尚在收集中” 的提示消失后再提交反馈**。
 
 <img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Collecting.png?raw=true" width = "80%" />
+
 > 数据尚在收集中
 
 <img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/Collected.png?raw=true" width = "80%" />
+
 > 数据已收集
 
 4. 经常使用反馈中心的 Windows 预览体验成员们可能会注意到，经常会出现 **“在提交了一条反馈之后，‘我的反馈’ 中找不到刚刚提交的反馈”** 的现象，这其实是正常的。反馈一般需要 **2 分钟**左右的时间才能在 **“我的反馈”** 中刷新出来，有时甚至需要**数个小时**甚至**一天**的时间。因此，如果大家找不到自己提交的反馈的话，请不要着急，一般最多一天时间即可正常查看。更不必立刻重新提交反馈，避免出现重复提交的情况。
