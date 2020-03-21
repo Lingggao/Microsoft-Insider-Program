@@ -62,7 +62,7 @@
 ### Microsoft Windows 预览体验计划 [(官方网站)](https://insider.windows.com/en-us/)  
 
 1. [**简体中文版本更新公告**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation/README_cn.md)
-2. **当我们发现 Windows 系统的异常问题时，该怎样去做？**
+2. **当发现 Windows 问题时，该如何处理？**
 	- [一、概述](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md)
 	- [二、什么是高质量反馈？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E4%BA%8C%E4%BB%80%E4%B9%88%E6%98%AF%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%8D%E9%A6%88)
 	- [三、如何决定是否应当提交反馈？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E4%B8%89%E5%A6%82%E4%BD%95%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E5%BA%94%E5%BD%93%E6%8F%90%E4%BA%A4%E5%8F%8D%E9%A6%88)
@@ -84,7 +84,7 @@
 ### Microsoft Edge 预览体验计划 [(官方网站)](https://www.microsoftedgeinsider.com/en-us/)
 
 1. [**新版本 Microsoft Edge 浏览器非官方功能建议征集与异常问题反馈平台**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub/README_cn.md)
-2. [**当我们发现 Edge 浏览器的异常问题时，该怎样去做？**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue/README_cn.md)
+2. [**当发现 Edge 问题时，该如何处理？**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue/README_cn.md)
 
 <img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
