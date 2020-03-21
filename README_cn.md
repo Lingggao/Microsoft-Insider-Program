@@ -63,7 +63,7 @@
 
 1. [**简体中文版本更新公告**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation/README_cn.md)
 2. **当发现 Windows 问题时，该如何处理？**
-	- [一、概述](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md)
+	- [一、概述](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%BD%93%E5%8F%91%E7%8E%B0-windows-%E9%97%AE%E9%A2%98%E6%97%B6%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86)
 	- [二、什么是高质量反馈？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E4%BA%8C%E4%BB%80%E4%B9%88%E6%98%AF%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%8D%E9%A6%88)
 	- [三、如何决定是否应当提交反馈？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E4%B8%89%E5%A6%82%E4%BD%95%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E5%BA%94%E5%BD%93%E6%8F%90%E4%BA%A4%E5%8F%8D%E9%A6%88)
 	- [四、如何获得有关 Windows 问题更详细的信息？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%9B%9B%E5%A6%82%E4%BD%95%E8%8E%B7%E5%BE%97%E6%9C%89%E5%85%B3-windows-%E9%97%AE%E9%A2%98%E6%9B%B4%E8%AF%A6%E7%BB%86%E7%9A%84%E4%BF%A1%E6%81%AF)
