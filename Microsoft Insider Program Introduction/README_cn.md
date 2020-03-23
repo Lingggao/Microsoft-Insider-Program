@@ -61,6 +61,7 @@ Microsoft 预览体验计划主要是面向广大 Microsoft 产品爱好者们�
 
 各 Microsoft 预览体验计划的具体注册方式如下：
 
+---
 ### Windows 预览体验计划
 
 1. 点击 [**此处**](https://insider.windows.com/zh-cn/) 进入 **Windows 预览体验计划**官方网站。
@@ -68,12 +69,14 @@ Microsoft 预览体验计划主要是面向广大 Microsoft 产品爱好者们�
 3. 登录 Microsoft 账户。
 4. 阅读协议，勾选 **“我已阅知”** 选项，确定后即可完成注册。
 5. 在 Windows 10 系统中点击 **“设置”>“更新和安全”>“Windows 预览体验计划”**，在此页面点击 **“开始”** 按钮，登录 Microsoft 账户即可下载与安装 Windows 预览体验版本。
-	
+
+---
 ### Edge 预览体验计划
 
 1. 点击 [**此处**](https://www.microsoftedgeinsider.com/zh-cn) 进入 **Edge 预览体验计划**官方网站。
 2. 不需要注册账户，点击顶部的 **“下载”** 选项卡，选择需要的渠道 (Beta、Dev、Canary)，阅读对应的法律协议，点击 **“接受并下载”** 按钮即可下载预览体验版本 Microsoft Edge 浏览器。
 
+---
 ### Bing 预览体验计划
 
 1. 点击 [**此处**](https://www.bing.com/insider) 进入 **Bing 预览体验计划**官方网站。
@@ -85,26 +88,31 @@ Microsoft 预览体验计划主要是面向广大 Microsoft 产品爱好者们�
 
 > 注：由于 Bing 预览体验成员名额有限，请务必如实、谨慎的填写所有的个人信息与申请感言。
 
+---
 ### Office 预览体验计划
 
 1. 点击 [**此处**](https://insider.office.com/zh-cn/) 进入 **Office 预览体验计划**官方网站。
 2. 点击 **“立即加入”** 按钮，查看对应当前使用的设备 **(Windows PC、Mac、Windows Mobile、Android、iOS)** 的加入步骤。
 3. 以 Windows 电脑为例，首先需要用户自行选择所需要的预览体验计划级别 **(预览体验计划、每月频道)**。确定所需级别后，只需从任何 Office 应用中，单击 **“文件”>“帐户”>“Office 预览体验计划”**，即可快速加入计划或切换级别。
 
+---
 ### Xbox 预览体验计划
 
 1. 启动 Microsoft Store，搜索 **“Xbox 会员中心”** 应用，获取并下载安装此应用。
 2. 启动 **“Xbox 会员中心”** 应用，查看文本提示，点击 **“加入”** 按钮。
 3. 阅读相关法律协议，无异议后点击 **“接受”** 按钮即可加入 Xbox 预览体验计划。
 
+---
 ### Visual Studio 预览
 
 Visual Studio 预览体验计划无需注册。只需要点击 [**此处**](https://visualstudio.microsoft.com/zh-hans/vs/preview/) 进入**Visual Studio 预览**官方网站，下载所需的预览版本即可。
 
+---
 ### Visual Studio Code 预览体验计划
 
 Visual Studio Code 预览体验计划无需注册。只需要点击 [**此处**](https://code.visualstudio.com/insiders/) 进入**Download Visual Studio Code Insiders**网站，下载所需的预览版本即可。
 
+---
 ### Skype 预览体验计划
 
 **Skype 预览体验计划目前已不再开放注册**。同时，我未能寻找到任何 “Skype 预览体验计划” 官方网站。
