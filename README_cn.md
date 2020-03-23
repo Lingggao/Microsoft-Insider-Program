@@ -46,47 +46,47 @@
 
 ### Microsoft 预览体验计划 [(官方网站)](https://insider.microsoft.com/en-us/)
 
-1. **简介**  [英文 × | **中文 √** | 审校 ×]
+1. **简介** *[英文 × | **中文 √** | **审校 √** | 二审 ×]
 	- [一、简介](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md)
 	- [二、截至目前，Microsoft 总共开放过多少个预览体验计划？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#%E4%BA%8C%E6%88%AA%E8%87%B3%E7%9B%AE%E5%89%8Dmicrosoft-%E6%80%BB%E5%85%B1%E5%BC%80%E6%94%BE%E8%BF%87%E5%A4%9A%E5%B0%91%E4%B8%AA%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92)
 	- [三、注册这些预览体验计划是否需要相应的资格 / 条件？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#%E4%B8%89%E6%B3%A8%E5%86%8C%E8%BF%99%E4%BA%9B%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E7%9B%B8%E5%BA%94%E7%9A%84%E8%B5%84%E6%A0%BC--%E6%9D%A1%E4%BB%B6)
 	- [四、如何注册这些预览体验计划？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#%E5%9B%9B%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E8%BF%99%E4%BA%9B%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92)
-2. **树状图**  [英文 × | **中文 √** | **审校 √**]
+2. **树状图**  *[英文 × | **中文 √** | **审校 √** | 二审 ×]
 	- [一、在 GitHub 中查看](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
 	- [二、在 ProcessOn 中查看](https://www.processon.com/view/link/5e6f2734e4b011fcce97f970)
-3. [**个人理论总结**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Personal%20Theory_cn.md)  [英文 × | 中文 × | 审校 ×]
+3. [**个人理论总结**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Personal%20Theory_cn.md)  *[英文 × | 中文 × | 审校 × | 二审 ×]
 
 <img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2r0Th?ver=5b7d" width = "20%" />
 
 ---
 ### Microsoft Windows 预览体验计划 [(官方网站)](https://insider.windows.com/en-us/)  
 
-1. **Windows 预览体验版本更新公告 简体中文翻译**  [英文 × | 中文 × | 审校 ×]
+1. **Windows 预览体验版本更新公告 简体中文翻译**  *[英文 × | 中文 × | 审校 × | 二审 ×]
 	- [一、概述](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation/README_cn.md#windows-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E5%85%AC%E5%91%8A-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91)
 	- [二、目录](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Update%20Announcement%20Translation/README_cn.md#%E4%BA%8C%E7%9B%AE%E5%BD%95)
-2. **当发现 Windows 问题时，该如何处理？**  [英文 × | **中文 √** | 审校 ×]
+2. **当发现 Windows 问题时，该如何处理？**  *[英文 × | **中文 √** | **审校 √** | 二审 ×]
 	- [一、概述](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%BD%93%E5%8F%91%E7%8E%B0-windows-%E9%97%AE%E9%A2%98%E6%97%B6%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86)
 	- [二、什么是高质量反馈？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E4%BA%8C%E4%BB%80%E4%B9%88%E6%98%AF%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%8D%E9%A6%88)
 	- [三、如何决定是否应当提交反馈？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E4%B8%89%E5%A6%82%E4%BD%95%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E5%BA%94%E5%BD%93%E6%8F%90%E4%BA%A4%E5%8F%8D%E9%A6%88)
 	- [四、如何获得有关 Windows 问题更详细的信息？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%9B%9B%E5%A6%82%E4%BD%95%E8%8E%B7%E5%BE%97%E6%9C%89%E5%85%B3-windows-%E9%97%AE%E9%A2%98%E6%9B%B4%E8%AF%A6%E7%BB%86%E7%9A%84%E4%BF%A1%E6%81%AF)
 	- [五、Windows 问题通用调查研究流程](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E4%BA%94windows-%E9%97%AE%E9%A2%98%E9%80%9A%E7%94%A8%E8%B0%83%E6%9F%A5%E7%A0%94%E7%A9%B6%E6%B5%81%E7%A8%8B)
 	- [六、使用 Feedback Hub (反馈中心) 应用的注意事项](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/What%20should%20we%20do%20when%20find%20a%20Windows%20issue/README_cn.md#%E5%85%AD%E4%BD%BF%E7%94%A8-feedback-hub-%E5%8F%8D%E9%A6%88%E4%B8%AD%E5%BF%83-%E5%BA%94%E7%94%A8%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
-3. **Windows 10 2019 年 5 月更新 (1903_18362) 已知问题与处理进度汇总**  [英文 × | **中文 √** | 审校 ×]
+3. **Windows 10 2019 年 5 月更新 (1903_18362) 已知问题与处理进度汇总**  *[英文 × | **中文 √** | 审校 × | 二审 ×]
 	- [一、概述](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues/README_cn.md)
 	- [二、屏幕截图](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues/README_cn.md#%E4%BA%8C%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE)
 	- [三、信息来源](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues/README_cn.md#%E4%B8%89%E4%BF%A1%E6%81%AF%E6%9D%A5%E6%BA%90)
 	- [四、特点](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues/README_cn.md#%E5%9B%9B%E7%89%B9%E7%82%B9)
 	- [五、最新情况](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%2010%20Known%20Issues/README_cn.md#%E4%BA%94%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5)
-4. [**我该选择哪一个 Windows 预览体验计划通道？**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%20Insider%20Rings/README_cn.md)  [英文 × | 中文 × | 审校 ×]
-5. [**什么是 Microsoft Windows Insider 最有价值专家 (MVP)？**](https://)  [英文 × | 中文 × | 审校 ×]
+4. [**我该选择哪一个 Windows 预览体验计划通道？**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Windows%20Insider%20Program/Windows%20Insider%20Rings/README_cn.md)  *[英文 × | 中文 × | 审校 × | 二审 ×]
+5. [**什么是 Microsoft Windows Insider 最有价值专家 (MVP)？**](https://)  *[英文 × | 中文 × | 审校 × | 二审 ×]
 
 <img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" />
 
 ---
 ### Microsoft Edge 预览体验计划 [(官方网站)](https://www.microsoftedgeinsider.com/en-us/)
 
-1. [**新版本 Microsoft Edge 浏览器非官方功能建议征集与异常问题反馈平台**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub/README_cn.md)  [英文 × | 中文 × | 审校 ×]
-2. [**当发现 Edge 问题时，该如何处理？**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue/README_cn.md)  [英文 × | 中文 × | 审校 ×]
+1. [**新版本 Microsoft Edge 浏览器非官方功能建议征集与异常问题反馈平台**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Edge%20Insider%20Program/Unofficial%20Edge%20Feedback%20Hub/README_cn.md)  *[英文 × | 中文 × | 审校 × | 二审 ×]
+2. [**当发现 Edge 问题时，该如何处理？**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Edge%20Insider%20Program/What%20should%20we%20do%20when%20find%20an%20Edge%20issue/README_cn.md)  *[英文 × | 中文 × | 审校 × | 二审 ×]
 
 <img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
