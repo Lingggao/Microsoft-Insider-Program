@@ -101,7 +101,9 @@
 
 <img src="https://compass-ssl.microsoft.com/assets/f1/0b/f10be4e6-cf27-4b54-a6a4-4f713ca99196.jpg?n=Bing%20494x278%402x.jpg" width = "20%" /><img src="https://compass-ssl.microsoft.com/assets/5c/d7/5cd79ce7-b82b-44d9-9c37-a39174fa6c78.jpg?n=office%20494x278%402x.jpg" width = "20%" /><img src="https://compass-ssl.microsoft.com/assets/10/33/1033c180-cb3a-4d3f-9ab5-ae8c91027fde.jpg?n=xbox%20494x278%402x.jpg" width = "20%" />
 
-<img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3sCx8?ver=8679" width = "20%" /><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3tcYq?ver=8ebf" width = "20%" /><img src="https://compass-ssl.microsoft.com/assets/e9/20/e920a992-9901-4f62-b9dd-69847b2edd4b.jpg?n=skype%20494x278%402x.jpg" width = "20%" />
+<img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3sCx8?ver=8679" width = "20%" /><img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74" width = "20%" /><img src="https://compass-ssl.microsoft.com/assets/e9/20/e920a992-9901-4f62-b9dd-69847b2edd4b.jpg?n=skype%20494x278%402x.jpg" width = "20%" />
+
+<img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3tcYq?ver=8ebf" width = "20%" /><img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" /><img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/README_cn.md#microsoft-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92-cat)
