@@ -1,6 +1,6 @@
 # Microsoft 预览体验计划 简介
 
-[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
+[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README.md#introduction-to-microsoft-insider-program)
 
 ## 一、简介
 
