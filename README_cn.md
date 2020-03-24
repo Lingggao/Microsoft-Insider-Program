@@ -53,7 +53,7 @@
 	- [四、如何注册这些预览体验计划？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#%E5%9B%9B%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E8%BF%99%E4%BA%9B%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92)
 2. **树状图** 【英文 × | **中文 √** | **审校 √** | 二审 ×】
 	- [一、在 GitHub 中查看](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true)
-	- [二、在 ProcessOn 中查看](https://www.processon.com/view/link/5e6f2734e4b011fcce97f970)
+	- [二、在 ProcessOn 中查看](https://www.processon.com/view/link/5e7a0630e4b08b6157358242)
 3. **个人理论总结** 【英文 × | 中文 × | 审校 × | 二审 ×】
 	- [点击此处查看](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Personal%20Theory_cn.md#%E4%B8%AA%E4%BA%BA%E7%90%86%E8%AE%BA%E6%80%BB%E7%BB%93)
 
