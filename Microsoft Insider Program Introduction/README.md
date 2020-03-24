@@ -116,7 +116,7 @@ No registration is required for the Visual Studio Code preview experience progra
 ---
 ### Skype Insider Program
 
-**The Skype preview program is no longer open for registration.** Meanwhile, users were unable to find the official Skype preview site.
+**The Skype Insider Program is no longer open for registration.** Meanwhile, users were unable to find the official Skype preview site.
 
 ---
 [**Back to the top**]()
