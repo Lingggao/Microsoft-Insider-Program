@@ -1,10 +1,10 @@
 # Microsoft 预览体验计划 简介
 
-[**English Documentation (英文版本)【暂未完成】**](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
+[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft-Insider-Program/tree/master/Microsoft%20Insider%20Program%20Introduction)
 
 ## 一、简介
 
-Microsoft 预览体验计划相当于志愿者计划，在中国港澳台地区也被译为 **“Microsoft 测试人员计划”**。注册计划的产品爱好者们被称为 “Microsoft 预览体验成员” (Microsoft 测试人员)，**他们将首先获得 Microsoft 产品的最新功能、新闻和更新**。同时，他们也可以先于一般大众了解未来动向，向 Microsoft 员工 (包括工程师) 直接提供反馈，共同塑造他们所喜爱的 Microsoft 产品的未来。
+Microsoft 预览体验计划类似于**志愿者计划**，在中国港澳台地区也被译为 **“Microsoft 测试人员计划”**。注册计划的 Microsoft 产品爱好者们被称为 **“Microsoft 预览体验成员”** (或 Microsoft 测试人员)，**他们将首先获得 Microsoft 产品的最新功能、新闻和更新**。同时，预览体验成员也可以先于一般大众了解 Microsoft 产品的未来动向，向 Microsoft 员工 (包括工程师) 直接提供反馈，共同塑造他们所喜爱的 Microsoft 产品的未来。
 
 <img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program.png?raw=true" width = "80%" />
 
@@ -25,17 +25,17 @@ Microsoft 预览体验计划相当于志愿者计划，在中国港澳台地区�
 7. **Visual Studio Code 预览体验计划** [(官方网站)](https://code.visualstudio.com/insiders/)
 8. ~**Skype 预览体验计划** (没有官方网站)~
 
-> 注 1：由于某些未知的原因，Microsoft 仅将 Visual Studio 预览体验计划仅称呼为 **“Visual Studuo 预览”** (没有 “体验计划” 四个字)，英文名为 **Visual Studio Preview**，并非 “Visual Studio Insider Program”。
+> 注 1：由于某些未知的原因，Microsoft 仅将 Visual Studio 预览体验计划仅称呼为 **“Visual Studuo 预览”** (没有 “体验计划” 四字)，英文名为 **Visual Studio Preview**，并非 “Visual Studio Insider Program”。
 
 > 注 2：Skype 预览体验计划目前已经**终止**，产品爱好者们无法继续参与其中。
 
 ## 三、注册预览体验计划是否需要相应的资格 / 条件？
 
-Microsoft 预览体验计划主要是面向广大 Microsoft 产品爱好者们开放的，而并非仅面向专业的计算机领域工作者，因此参与用户**基本不需要具备高层次的计算机相关技术能力**。
+Microsoft 预览体验计划主要是面向广大 Microsoft 产品爱好者们开放的，而并非仅面向专业的计算机领域工作者。因此，**参与用户基本不需要具备高层次的计算机相关技术能力**。
 
-在注册任何的预览体验计划前，请**务必仔细阅读对应的法律协议**，这些条款将构成您与 Microsoft Corporation (或者位于您的居住地或企业主营业地的其中一个关联公司) 之间的法律协议，并约束您参与计划的相关事宜。
+在注册任何的预览体验计划前，请**务必仔细阅读对应的法律协议**，这将构成用户与 Microsoft Corporation (或者位于用户居住地或企业主营业地的其中一个关联公司) 之间的法律协议，并约束用户参与计划的相关事宜。
 
-例如，如果希望注册 Windows 预览体验计划的话，以下 4 点是需要特别注意的：
+例如，如果大家希望注册 **Windows 预览体验计划**的话，以下 **4** 点是需要特别注意的：
 
 1. 您了解，使用试验性软件版本和预发布软件意味着您可能偶尔会遇到故障和数据丢失情况。参与本计划即表示您同意经常对您的数据进行备份。
 2. 您参与本计划是自愿和免费的，不会获得任何补偿。您对本计划的参与不会使您和 Microsoft 之间形成具有法律效力的合伙、代理或雇用关系。
@@ -46,20 +46,20 @@ Microsoft 预览体验计划主要是面向广大 Microsoft 产品爱好者们�
 
 上述 4 条协议可以简要总结为以下内容：
 
-1. **用户需要成年以后才可以参与 Microsoft 预览体验计划。**  
-2. **预览体验计划为用户提供的软件可能会损坏设备。**
+1. **用户需要成年以后才可以参与 Windows 预览体验计划。**  
+2. **预览体验计划为用户提供的软件可能会损坏用户的设备。**
 3. **用户不会获得报酬，也不会与 Microsoft 形成任何雇佣关系。**
 4. **用户不被允许对 Microsoft 提供的软件进行反编译，或者试图以任何方式导出其源代码。**
 
-上述内容摘自 Windows 预览体验计划协议，仅为完整协议的一小部分，供大家参考。**不同 Microsoft 预览体验计划的法律协议是有所不同的，必须在注册任何的 Microsoft 预览体验计划前仔细阅读对应的协议，要避免做出违反协议的操作。**
+上述内容摘自 Windows 预览体验计划协议，仅为完整协议的一小部分，供大家参考。**不同 Microsoft 预览体验计划的法律协议是有所不同的，必须在注册任何的 Microsoft 预览体验计划前仔细阅读对应的协议，避免做出任何违反协议的操作。**
 
 ## 四、如何注册这些预览体验计划？
 
-不同 Microsoft 预览体验计划的注册方式有所不同 —— 有些需要通过 Microsoft 官方网站进行注册，有些需要在特定的 Microsoft 产品中进行注册，而有些根本不需要注册。但是，为了确保各位朋友们可以顺利的参与其中，**强烈建议大家提前注册一个 Microsoft 账户**。
+不同 Microsoft 预览体验计划的注册或参加方式有所不同 —— 有些需要通过 Microsoft 官方网站进行注册，有些需要在特定的 Microsoft 产品中进行注册，而有些并不需要注册。不过，**为了确保可以顺利的参与其中，强烈建议大家提前注册一个 Microsoft 账户，因为部分预览体验计划需要使用 Microsoft 账户进行注册**。
 
 > 点击 [**此处**](https://account.microsoft.com/account/Account) 以了解有关 Microsoft 账户的详细信息。
 
-各 Microsoft 预览体验计划的具体注册方式如下：
+**各 Microsoft 预览体验计划的详细注册或参加方式如下**：
 
 ---
 ### Windows 预览体验计划
@@ -81,19 +81,19 @@ Microsoft 预览体验计划主要是面向广大 Microsoft 产品爱好者们�
 
 1. 点击 [**此处**](https://www.bing.com/insider) 进入 **Bing 预览体验计划**官方网站。
 2. 点击 **“Register”** 按钮，登录 Microsoft 账户。
-3. 如实填写调查问卷。
+3. **如实**填写调查问卷。
 4. 阅读法律协议，勾选 **“同意”** 选择框，填写**姓名、电子邮件、一句话申请感言、性别、年龄、地区**等信息。
 5. 继续填写一份调查问卷。
-6. **等待 Microsoft Bing 团队审核您提供的信息。如果 Bing 批准此申请的话，一般可以在 1 - 2 周时间内接到邮件提示**。
+6. **等待 Microsoft Bing 团队审核您提供的信息。如果 Bing 团队同意您加入预览体验计划的话，一般会在 1 - 2 周时间内向您发送一封电子邮件**。
 
-> 注：由于 Bing 预览体验成员名额有限，请务必如实、谨慎的填写所有的个人信息与申请感言。
+> 注：Bing 预览体验成员名额有限，请务必**如实、谨慎**的填写所有个人信息与申请感言。
 
 ---
 ### Office 预览体验计划
 
 1. 点击 [**此处**](https://insider.office.com/zh-cn/) 进入 **Office 预览体验计划**官方网站。
 2. 点击 **“立即加入”** 按钮，查看对应当前使用的设备 **(Windows PC、Mac、Windows Mobile、Android、iOS)** 的加入步骤。
-3. 以 Windows 电脑为例，首先需要用户自行选择所需要的预览体验计划级别 **(预览体验计划、每月频道)**。确定所需级别后，只需从任何 Office 应用中，单击 **“文件”>“帐户”>“Office 预览体验计划”**，即可快速加入计划或切换级别。
+3. 以 Windows 电脑为例，首先需要用户自行选择所需要的预览体验计划级别 **(预览体验计划、每月频道)**。确定所需级别后，只需通过任何 Office 应用单击 **“文件”>“帐户”>“Office 预览体验计划”** 即可快速加入计划或切换级别。
 
 ---
 ### Xbox 预览体验计划
@@ -105,17 +105,17 @@ Microsoft 预览体验计划主要是面向广大 Microsoft 产品爱好者们�
 ---
 ### Visual Studio 预览
 
-Visual Studio 预览体验计划无需注册。只需要点击 [**此处**](https://visualstudio.microsoft.com/zh-hans/vs/preview/) 进入**Visual Studio 预览**官方网站，下载所需的预览版本即可。
+Visual Studio 预览体验计划无需注册。只需点击 [**此处**](https://visualstudio.microsoft.com/zh-hans/vs/preview/) 进入 **“Visual Studio 预览”** 官方网站，下载所需的预览版本即可。
 
 ---
 ### Visual Studio Code 预览体验计划
 
-Visual Studio Code 预览体验计划无需注册。只需要点击 [**此处**](https://code.visualstudio.com/insiders/) 进入**Download Visual Studio Code Insiders**网站，下载所需的预览版本即可。
+Visual Studio Code 预览体验计划无需注册。只需点击 [**此处**](https://code.visualstudio.com/insiders/) 进入 **“Download Visual Studio Code Insiders”** 网站，下载所需的预览版本即可。
 
 ---
 ### Skype 预览体验计划
 
-**Skype 预览体验计划目前已不再开放注册**。同时，我未能寻找到任何 “Skype 预览体验计划” 官方网站。
+**Skype 预览体验计划目前已不再开放注册**。同时，用户已无法寻找到 “Skype 预览体验计划” 官方网站。
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#microsoft-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92-%E7%AE%80%E4%BB%8B)

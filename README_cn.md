@@ -46,7 +46,7 @@
 
 ### Microsoft 预览体验计划 [(官方网站)](https://insider.microsoft.com/en-us/)
 
-1. **简介** 【英文 × | **中文 √** | **审校 √** | 二审 ×】
+1. **简介** 【英文 × | **中文 √** | **审校 √** | **二审 √**】
 	- [一、简介](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#microsoft-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92-%E7%AE%80%E4%BB%8B)
 	- [二、截至目前，Microsoft 总共开放过多少个预览体验计划？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#%E4%BA%8C%E8%BF%84%E4%BB%8A%E4%B8%BA%E6%AD%A2microsoft-%E5%85%B1%E5%BC%80%E6%94%BE%E8%BF%87%E5%A4%9A%E5%B0%91%E4%B8%AA%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92)
 	- [三、注册这些预览体验计划是否需要相应的资格 / 条件？](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#%E4%B8%89%E6%B3%A8%E5%86%8C%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E7%9B%B8%E5%BA%94%E7%9A%84%E8%B5%84%E6%A0%BC--%E6%9D%A1%E4%BB%B6)
