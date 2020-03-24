@@ -8,7 +8,7 @@
 
 The Microsoft Insider Programs are similar to the **volunteer program**. It has been translated into the **"Microsoft Testers Program"** in Hong Kong, Macao, and Taiwan. Microsoft product enthusiasts who sign up for the program are called **"Microsoft Insider"** (or Microsoft Tester), and **they will get the latest features, news, and updates from Microsoft first**. Also, Insiders can learn about the future of Microsoft products before the general public, provide direct feedback to Microsoft employees (including engineers), and jointly shape the future of their favorite Microsoft products.
 
-- [ ] // picture
+<img src="https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/Microsoft%20Insider%20Program_en.png?raw=true" width = "80%" />
 
 > Click [**here**](https://www.processon.com/view/link/5e6f2734e4b011fcce97f970) to go to ProcessOn for the complete tree.
 
