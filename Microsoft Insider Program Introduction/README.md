@@ -1,6 +1,6 @@
 # Introduction to Microsoft Insider Program
 
-[**简体中文版本 (Chinese Documentation)**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md)  
+[**简体中文版本 (Chinese Documentation)**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/Microsoft%20Insider%20Program%20Introduction/README_cn.md#microsoft-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92-%E7%AE%80%E4%BB%8B)  
 
 **The English version of the document has not translated yet. Please be patient. You can first view the Chinese documentation through the link above. :cat: The following article is using machine translation. This translation is for reference only. I will do manual translation as soon as possible.**
 
