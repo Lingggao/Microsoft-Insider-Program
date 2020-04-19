@@ -1,13 +1,4 @@
-# Microsoft 预览体验计划 :cat:
-
-[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft-Insider-Program)
-
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://en.wikipedia.org/wiki/Markdown) 
-[![CC0-1.0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/Lingggao/Microsoft_Insider_Program/blob/master/LICENSE)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://www.linkedin.com/in/lingggao)
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://www.linkedin.com/in/lingggao)
-
-## 简介
+# Microsoft 预览体验计划
 
 ***以赋能为使命，予力全球每一人、每一组织，成就不凡。***
 
@@ -21,7 +12,7 @@
 > 参与计划：Microsoft Windows 预览体验计划、Microsoft Edge 预览体验计划  
 > 已提交的反馈数量：大于 470 个  
 
-## 个人简历
+# 个人简历
 
 我热爱 Microsoft 的企业文化与技术，并且长时间致力于为更多的 Microsoft 产品用户们提供更舒适的产品使用体验。在有关 “推动 Windows 与其他 Microsoft 产品蓬勃发展” 的方面，我做出过以下几点微小的贡献：
 
@@ -36,13 +27,13 @@
 衷心感谢您的观看与支持！  
 **Ling Gao (高楷修)**
 
-## 个人主页
+# 个人主页
 
 - [GitHub](https://github.com/Lingggao)
 - [Microsoft Community](https://answers.microsoft.com/zh-hans/profile/4e1113c0-eb29-4e90-9782-f1931bae8489)
 - [LinkedIn](https://www.linkedin.com/in/lingggao/)
 
-## 目录
+# 目录
 
 ### Microsoft 预览体验计划 [(官方网站)](https://insider.microsoft.com/en-us/)
 
@@ -100,7 +91,6 @@
 
 **衷心感谢各位朋友们的支持！**
 
----
 <img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" /><img src="https://compass-ssl.microsoft.com/assets/5c/d7/5cd79ce7-b82b-44d9-9c37-a39174fa6c78.jpg?n=office%20494x278%402x.jpg" width = "20%" /><img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
 <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3sCx8?ver=8679" width = "20%" /><img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74" width = "20%" /><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3tcYq?ver=8ebf" width = "20%" />

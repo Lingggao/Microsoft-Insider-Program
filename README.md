@@ -1,13 +1,4 @@
-# Microsoft Insider Programs :cat:  
-
-[**简体中文版本 (Chinese Documentation)**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/README_cn.md)   
-
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://en.wikipedia.org/wiki/Markdown) 
-[![CC0-1.0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/LICENSE)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://www.linkedin.com/in/lingggao)
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://www.linkedin.com/in/lingggao)
-
-## Overview
+# Microsoft Insider Programs
 
 ***Empower every person and organization on the planet to achieve more.***
 
@@ -21,7 +12,7 @@ Thanks for your support!
 > Participate: Microsoft Windows Insider Program, Microsoft Edge Insider Program  
 > Number of feedback submitted: 470+  
 
-## Self Introduction
+# Self Introduction
 
 I am very into the corporate culture and technologies of Microsoft, and I have been committed to enabling more comfortable experiences for the users of Microsoft products. In terms of "promoting the rapid development of Windows and other Microsoft products," I have made the following contributions:
 
@@ -36,13 +27,13 @@ Looking into 2020, I would continue to make further contributions to the develop
 Thanks for your support!  
 **Ling Gao**
 
-## Homepage
+# Homepage
 
 - [Github](https://github.com/Lingggao)
 - [Microsoft Community](https://answers.microsoft.com/en-us/profile/4e1113c0-eb29-4e90-9782-f1931bae8489)
 - [LinkedIn](https://www.linkedin.com/in/lingggao/)
 
-## Table of Contents
+# Table of Contents
 
 ### Microsoft Insider Programs [(Official Website)](https://insider.microsoft.com/en-us/)
 
@@ -101,7 +92,6 @@ If I find other Microsoft product enthusiasts' introduction articles or experien
 
 **Thanks for your support!**
 
----
 <img src="https://compass-ssl.microsoft.com/assets/f2/5f/f25fe1ec-100f-4215-80da-369d22333260.jpg?n=Windows%20494x278%402x.jpg" width = "20%" /><img src="https://compass-ssl.microsoft.com/assets/5c/d7/5cd79ce7-b82b-44d9-9c37-a39174fa6c78.jpg?n=office%20494x278%402x.jpg" width = "20%" /><img src="https://compass-ssl.microsoft.com/assets/14/0b/140b5f11-e48d-48f8-aebd-03c06135270b.jpg?n=Edge%402x%20(1).jpg" width = "20%" />
 
 <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3sCx8?ver=8679" width = "20%" /><img src="http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74" width = "20%" /><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3tcYq?ver=8ebf" width = "20%" />
