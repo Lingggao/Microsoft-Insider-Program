@@ -1,9 +1,11 @@
 # Microsoft Insider Programs
 
+[**简体中文版本 (Chinese Documentation)**](https://github.com/Lingggao/Microsoft-Insider-Program/blob/master/README_cn.md#microsoft-%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92)
+
 ***Empower every person and organization on the planet to achieve more.***
 
 For a long time, I firmly believe that **if a large project is to succeed, it cannot be achieved by one member of the team alone, but by the mutual help and joint efforts of each member of the team.** ***A single flower does not make a spring.*** In the more than two years of participating in the Microsoft Insider Program, I have won the top 10 of the Windows Insider Leaderboard several times, and I have accumulated some shallow experience. I have believed that **the hard work of a small group of members will not make the Microsoft Insider Program *"Spring Scenery Garden."* Rather than go it alone, I hope that through my efforts, the community can achieve the goal of *"All Flowers Bloom Together."***
- 
+
 So I decided to create this repository to record my contributions and lessons learned during my participation in the Microsoft Insider Program. I hope this repository can help newbie Microsoft Insiders fight for fewer detours and focus on contributing to Microsoft.
 
 Thanks for your support!

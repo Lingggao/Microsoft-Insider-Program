@@ -1,5 +1,7 @@
 # Microsoft 预览体验计划
 
+[**English Documentation (英文版本)**](https://github.com/Lingggao/Microsoft-Insider-Program#microsoft-insider-programs)
+
 ***以赋能为使命，予力全球每一人、每一组织，成就不凡。***
 
 一直以来，我都坚定的认为 —— **每个大型项目若想获得成功，单靠团队中的某一位成员独自奋斗是做不到的，而是要靠团队中每一位成员相互帮助、共同努力**。***一花独放不是春，百花齐放春满园***。我在参与 Microsoft 预览体验计划的两年多时间中，曾数次荣获世界 Windows 预览体验成员排行榜前 10 名，也因此积攒了一些浅显的经验。
